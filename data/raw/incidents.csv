@@ -1,0 +1,501 @@
+incident_id,created_date,sla_deadline,resolved_date,incident_type,severity,status,department,region,assigned_to,escalated,repeat_incident,estimated_cost_usd,description
+INC-10000,2024-11-23,2024-11-26,2024-11-24,SLA Breach,Low,Resolved,Compliance,West,Jennifer Waller,True,True,12016.71,Power partner spring land improve inside official PM.
+INC-10001,2024-11-04,2024-11-07,,Audit Finding,Medium,Resolved,Finance,Central,James Hill,False,False,38060.96,While kitchen which recently center threat way black traditional whatever piece create design.
+INC-10002,2024-03-22,2024-04-01,2024-04-02,SLA Breach,Low,Resolved,Finance,North,Sharon Payne,False,False,13593.78,Successful story different within force behavior.
+INC-10003,2024-01-23,2024-02-02,,Process Failure,Critical,Open,HR,Central,Kari Gibson,False,False,10018.29,Near speech college policy case necessary protect condition.
+INC-10004,2024-02-05,2024-02-08,2024-02-13,Regulatory Breach,Critical,Resolved,Operations,West,Kathleen Edwards,False,False,18823.96,Letter lawyer share manage special than particular Mr manager voice dark top career.
+INC-10005,2024-04-17,2024-04-24,2024-04-20,Fraud Alert,Low,Resolved,Finance,East,Christine Silva,False,False,28069.01,Factor third friend fire organization reach teacher prevent discover road newspaper then.
+INC-10006,2024-12-16,2024-12-23,2024-12-18,SLA Breach,Low,Closed,Legal,Central,Catherine Foster,False,False,32944.21,Senior charge air open rate mission strategy.
+INC-10007,2024-07-21,2024-07-31,2024-07-26,Regulatory Breach,Low,Closed,Compliance,West,Nicole Martinez,False,False,7347.42,Time community line bring box because peace course statement member service.
+INC-10008,2024-09-09,2024-09-12,2024-09-11,SLA Breach,Low,Closed,Finance,West,Paul Allen,False,False,12945.0,Message fish chance class source build poor.
+INC-10009,2024-10-10,2024-10-13,2024-10-14,SLA Breach,Medium,Closed,Operations,West,Shannon Austin,False,True,36243.56,Know hotel model recognize capital specific.
+INC-10010,2024-05-14,2024-05-28,2024-05-20,Data Anomaly,Low,Resolved,Operations,South,Cheryl Smith,False,False,26752.51,Fast place computer because whether compare tax economic nice since music list understand.
+INC-10011,2024-01-01,2024-01-15,2024-01-12,Audit Finding,Low,Closed,Risk,South,Pamela Mccoy,False,False,4739.85,Soldier born firm article wind group but arm with we avoid last.
+INC-10012,2024-09-05,2024-09-08,2024-09-23,Process Failure,Low,Resolved,Compliance,Central,Daniel Mendoza,False,False,27195.16,Single speech dark point he decade blood career edge.
+INC-10013,2024-12-19,2024-12-24,2024-12-29,SLA Breach,Medium,Closed,Legal,South,Kevin Brewer,True,True,27919.12,Republican about plant use boy make star loss call.
+INC-10014,2024-10-28,2024-11-02,,Policy Violation,Medium,In Progress,HR,East,Summer Gillespie,True,False,33614.4,Stop into within I company yard.
+INC-10015,2024-04-19,2024-05-03,2024-04-24,Fraud Alert,High,Resolved,HR,West,Jill Martinez,False,True,21837.03,Mouth meeting painting step sort responsibility word school Mr defense sing move company.
+INC-10016,2024-08-04,2024-08-14,2024-08-19,Policy Violation,Low,Resolved,Finance,East,Steven Newton,False,True,9983.71,Approach student institution picture last be friend.
+INC-10017,2024-10-01,2024-10-11,2024-10-06,Fraud Alert,Low,Resolved,HR,Central,Megan Spencer,True,False,27259.1,Major accept range deep sea interesting herself say.
+INC-10018,2024-01-08,2024-01-11,,Regulatory Breach,Medium,In Progress,Risk,South,Charles Cook,False,False,13627.55,Student teacher run kitchen perhaps movie need off article ever three.
+INC-10019,2024-08-20,2024-08-27,2024-09-03,Data Anomaly,High,Closed,Legal,East,Charles Bass,False,True,36918.99,Involve national western final financial executive discussion perform arm where impact party.
+INC-10020,2024-02-01,2024-02-08,,Data Anomaly,Medium,Closed,Risk,Central,Gregory Summers,True,False,29954.24,Relate small serious drop test size already law foreign accept.
+INC-10021,2024-12-11,2024-12-16,,Policy Violation,High,In Progress,Compliance,North,Christopher Phillips,False,False,26377.74,Law bank avoid read two others likely must describe their.
+INC-10022,2024-05-13,2024-05-18,2024-05-24,Fraud Alert,Medium,Closed,Operations,North,Ryan Mueller,True,False,28368.19,Strategy card teach laugh gas voice involve job economic hard.
+INC-10023,2024-02-21,2024-02-24,2024-03-10,Audit Finding,Low,Resolved,Operations,East,Sarah Strong,False,False,35325.23,Pm themselves able wait land believe Congress season do police two food.
+INC-10024,2024-11-09,2024-11-23,2024-11-10,Data Anomaly,Medium,Resolved,Operations,North,Timothy Harrison,False,False,8194.67,Congress heavy large yet foreign window onto wonder begin.
+INC-10025,2024-05-24,2024-06-07,2024-05-31,Fraud Alert,Low,Closed,Operations,North,Caroline Harper,True,False,14195.67,Eight save business health conference may any.
+INC-10026,2024-01-02,2024-01-09,2024-01-07,Policy Violation,Low,Closed,Risk,North,Amy Bates,False,False,7878.19,Drug leader his those camera especially PM authority travel activity sing.
+INC-10027,2024-01-19,2024-01-26,2024-02-07,Policy Violation,Medium,Closed,Operations,South,Brian Willis,False,False,18007.09,Car health instead politics north play would power.
+INC-10028,2024-10-13,2024-10-23,2024-11-02,Data Anomaly,Critical,Resolved,Finance,North,Jonathan Huang,False,False,39228.13,High culture sell I ball type always able tough also walk action.
+INC-10029,2024-07-29,2024-08-03,,Policy Violation,High,Escalated,HR,West,Kevin Cantu,False,False,23285.01,Issue that full stock campaign need population letter husband.
+INC-10030,2024-06-05,2024-06-10,,SLA Breach,Low,In Progress,HR,East,James Hernandez,False,False,34136.15,Method career hard toward anything southern seat southern quickly suffer view might.
+INC-10031,2024-10-01,2024-10-08,,Process Failure,Critical,In Progress,Risk,North,Emily Bennett,False,False,39428.19,Face administration certain born right blood through history summer.
+INC-10032,2024-08-11,2024-08-25,,Policy Violation,High,In Progress,Technology,West,Paul Arellano,True,False,27153.37,Also note until arrive suggest window garden lead throw.
+INC-10033,2024-12-09,2024-12-14,2024-12-21,SLA Breach,Critical,Closed,Technology,East,Rachel Phillips,False,False,16646.05,Four door product quite much help unit man keep report improve mind.
+INC-10034,2024-12-22,2024-12-29,,Data Anomaly,Medium,Closed,Compliance,Central,Robert Moody,False,False,520.09,People other next company street begin national include reveal each edge feeling.
+INC-10035,2024-05-26,2024-05-31,2024-06-09,Fraud Alert,Medium,Closed,Technology,South,Maria Alvarez,False,False,48011.68,Policy raise herself huge point purpose impact smile though police magazine.
+INC-10036,2024-03-27,2024-03-30,2024-04-06,Process Failure,Medium,Resolved,Legal,South,Brittany Williams,True,True,49204.83,So fine process low news out left ago watch itself.
+INC-10037,2024-11-08,2024-11-11,2024-11-23,Fraud Alert,Medium,Closed,Finance,South,Felicia Raymond,True,False,44686.66,Local then run security professor audience in eat.
+INC-10038,2024-02-24,2024-03-05,,Policy Violation,Critical,Resolved,Compliance,South,Claire Alvarez,False,False,7100.29,Miss include near herself with build.
+INC-10039,2024-08-25,2024-09-08,2024-09-12,Fraud Alert,Critical,Closed,Legal,West,James Morris,False,False,42073.21,Effect soon ask face sign parent.
+INC-10040,2024-05-21,2024-06-04,2024-06-06,Audit Finding,Low,Closed,Operations,East,Curtis Gray,False,False,7349.52,Main in same however sell purpose add care everything past nearly recognize kid.
+INC-10041,2024-04-28,2024-05-08,2024-05-03,Regulatory Breach,Low,Closed,Risk,South,Marcus Adams,False,False,38604.89,Partner third deep story prevent try brother series marriage tough.
+INC-10042,2024-12-22,2024-12-25,2025-01-10,Regulatory Breach,Low,Closed,Compliance,Central,Krystal Myers,False,False,24667.36,Food free create sell nice far.
+INC-10043,2024-05-19,2024-05-29,,Regulatory Breach,Medium,Resolved,Technology,South,Jerry Hebert,False,False,49045.74,Message expert she economic south impact movie source ago rather.
+INC-10044,2024-09-30,2024-10-03,2024-10-13,Data Anomaly,Medium,Closed,HR,West,William Ramirez,False,False,16703.96,Check performance avoid know coach or lay always those.
+INC-10045,2024-08-20,2024-08-27,2024-08-31,Process Failure,Medium,Closed,HR,North,Alejandro Fernandez,False,False,3078.24,Structure prevent along phone listen line family left into.
+INC-10046,2024-06-28,2024-07-03,2024-07-01,Audit Finding,Medium,Resolved,HR,North,Joshua Coleman,False,False,23941.27,Keep report view actually benefit method walk others yourself kid lay international.
+INC-10047,2024-02-28,2024-03-13,2024-03-06,Data Anomaly,Low,Resolved,Operations,North,Ralph Johnson,False,False,29001.94,Nor process discussion practice war blue she drop early event.
+INC-10048,2024-07-11,2024-07-21,,SLA Breach,Medium,Resolved,Technology,East,Cathy Wood,False,False,6492.23,Great miss establish store news piece set wall together surface recognize door.
+INC-10049,2024-10-16,2024-10-19,2024-10-28,Policy Violation,Medium,Closed,HR,West,Morgan Maxwell,False,True,48058.98,Tree break a piece including Mr they response great anyone let.
+INC-10050,2024-11-21,2024-12-01,2024-11-26,Fraud Alert,High,Closed,Finance,West,Paul Garcia,False,False,16454.08,Wait family actually feel might no assume.
+INC-10051,2024-05-05,2024-05-08,2024-05-14,Vendor Risk,Low,Closed,Risk,West,Joel Sims,False,False,10999.93,Dog bring here arrive time help whose rate.
+INC-10052,2024-05-12,2024-05-19,2024-05-21,Audit Finding,High,Resolved,Risk,South,Troy Peters,False,False,38029.15,Term sport test do less conference public security public must agency once.
+INC-10053,2024-12-19,2024-12-29,2025-01-04,Audit Finding,Low,Closed,Operations,Central,Larry Lopez,False,False,17515.99,Consumer call environmental my whether different drive while head student size everything.
+INC-10054,2024-10-08,2024-10-15,2024-10-20,Audit Finding,Low,Resolved,Operations,North,Alicia Martin,False,False,34663.1,Mention table body miss support successful attention.
+INC-10055,2024-04-08,2024-04-13,2024-04-24,SLA Breach,Medium,Closed,HR,South,Justin Villanueva,False,False,15462.25,Foreign consider color medical maybe it true carry election forget artist.
+INC-10056,2024-12-28,2025-01-11,2025-01-02,Fraud Alert,Critical,Resolved,Risk,North,Christina Carter,False,False,22303.21,Think ever really real let who reveal chair seat paper politics.
+INC-10057,2024-04-04,2024-04-07,2024-04-13,Fraud Alert,Medium,Closed,Risk,Central,Megan Crane,False,True,7885.28,True analysis enough figure office late politics page long.
+INC-10058,2024-10-15,2024-10-22,2024-10-18,Regulatory Breach,Low,Resolved,Finance,West,Natalie Brown,False,False,21727.08,Lose place suffer eight rate toward much pattern.
+INC-10059,2024-10-18,2024-11-01,2024-10-20,Audit Finding,High,Resolved,Operations,North,Kristin Austin,False,False,4215.71,Yourself different less her else training car feel.
+INC-10060,2024-01-02,2024-01-12,2024-01-17,Process Failure,Medium,Closed,Technology,West,Christine Russell,True,False,13595.45,Speech force walk administration upon government seem.
+INC-10061,2024-11-16,2024-11-30,2024-11-23,Data Anomaly,Medium,Closed,Risk,North,Martin Marsh,False,False,37573.41,Page establish finish summer then will might report ball material.
+INC-10062,2024-10-18,2024-10-25,,Process Failure,Medium,Resolved,Compliance,Central,Ashley Mckinney,False,True,2473.11,Shoulder key group exist science state.
+INC-10063,2024-08-09,2024-08-16,2024-08-29,Process Failure,Low,Resolved,Compliance,North,Roger Blankenship,False,False,26188.71,Wear cause art begin factor present itself win guess.
+INC-10064,2024-08-14,2024-08-21,2024-08-20,Fraud Alert,Medium,Resolved,Operations,West,David Kelly,False,False,42957.79,Direction less down challenge manage long no Democrat hair.
+INC-10065,2024-06-17,2024-06-27,2024-07-03,Fraud Alert,Critical,Resolved,Risk,East,Douglas Gibbs,False,True,38741.12,Represent or see especially outside population toward fight.
+INC-10066,2024-09-20,2024-09-23,2024-10-08,Fraud Alert,Low,Closed,HR,North,Scott Rodriguez,False,False,46419.8,Continue cut continue eye structure east top above recent the.
+INC-10067,2024-08-12,2024-08-22,,Data Anomaly,Medium,Resolved,Operations,Central,Robert Henry,True,False,11622.68,What history five source cause create wish.
+INC-10068,2024-02-28,2024-03-09,2024-03-03,Process Failure,Low,Closed,Finance,West,Victoria Pierce,False,False,27787.62,Across manage protect over nice individual day plant.
+INC-10069,2024-07-15,2024-07-20,2024-08-04,Regulatory Breach,High,Closed,Operations,Central,Matthew Rasmussen,False,True,36439.52,Billion evening hard for rich list against marriage be believe color both buy.
+INC-10070,2024-10-27,2024-11-10,2024-11-12,Regulatory Breach,Medium,Closed,Finance,East,Richard Allison,False,False,12320.87,Again expect return process myself mind strategy.
+INC-10071,2024-07-15,2024-07-20,,Regulatory Breach,High,Resolved,Finance,South,Michael English,False,True,25363.41,Arm woman most standard collection car.
+INC-10072,2024-10-29,2024-11-05,2024-11-02,Policy Violation,Medium,Closed,Technology,South,Ashley Allen,False,False,8140.88,Then state discuss history experience organization produce year build ten edge.
+INC-10073,2024-08-28,2024-09-04,2024-09-08,Regulatory Breach,Medium,Closed,Operations,West,Thomas Stokes,False,True,3886.83,Mr letter again dark newspaper well nation.
+INC-10074,2024-11-19,2024-11-26,2024-11-27,Fraud Alert,Medium,Resolved,Legal,East,Stacey Morales,False,True,39909.1,Final story whole nearly enough offer against especially law.
+INC-10075,2024-05-30,2024-06-06,2024-06-11,Data Anomaly,Low,Resolved,Legal,North,Dawn Melendez,False,False,34315.16,Part throughout skill feeling plant eight.
+INC-10076,2024-09-11,2024-09-25,2024-09-16,Fraud Alert,Medium,Resolved,Operations,Central,Mark Hill,False,False,17605.5,Offer front far husband stop card fast direction likely fish special a.
+INC-10077,2024-10-27,2024-11-03,2024-11-10,Fraud Alert,Medium,Closed,Risk,South,William Lopez,False,False,15145.68,Avoid much suggest table crime same.
+INC-10078,2024-12-24,2024-12-31,2024-12-25,Fraud Alert,Medium,Resolved,HR,East,Randy Webb,False,False,40195.63,Teach front picture space all morning hit religious think want watch.
+INC-10079,2024-04-22,2024-04-27,2024-05-12,SLA Breach,High,Resolved,Technology,North,Manuel Hayden,False,False,29188.9,Get us police within evening identify apply form order.
+INC-10080,2024-03-08,2024-03-11,2024-03-18,Process Failure,Medium,Closed,HR,South,Donald Hernandez,False,False,24351.47,From difficult matter enjoy similar voice stay law.
+INC-10081,2024-05-31,2024-06-07,2024-06-04,Regulatory Breach,Low,Resolved,HR,Central,Shannon Chandler,False,False,1188.97,Name so real kind model better.
+INC-10082,2024-10-01,2024-10-04,2024-10-16,Vendor Risk,High,Closed,Risk,South,John Taylor,False,False,47186.87,Expect different public authority evening community treatment.
+INC-10083,2024-06-16,2024-06-30,2024-06-24,Regulatory Breach,Medium,Closed,Risk,South,Abigail Davis,True,True,49798.41,Center day serious democratic admit real walk mother ok.
+INC-10084,2024-02-29,2024-03-03,2024-03-08,Data Anomaly,Low,Closed,Finance,North,Sandra Ruiz,False,False,46983.13,Rock arm if choice tough apply.
+INC-10085,2024-05-23,2024-05-26,2024-06-04,SLA Breach,Medium,Closed,Technology,East,Nancy Williams,False,False,18254.36,Society American score relate key class evidence also tend chance will.
+INC-10086,2024-07-22,2024-07-29,2024-07-29,Audit Finding,Critical,Resolved,Technology,Central,Jeffrey Coleman,False,True,17008.7,Successful need minute food difference daughter so adult.
+INC-10087,2024-03-05,2024-03-19,,Audit Finding,High,In Progress,HR,South,Heidi Maynard,False,False,45076.29,Third money quite suffer toward choice we hospital while be north follow away.
+INC-10088,2024-01-02,2024-01-09,2024-01-07,Policy Violation,Medium,Resolved,Legal,North,Susan Henry,False,False,29648.22,Old level conference ability figure baby red hold certainly democratic.
+INC-10089,2024-01-09,2024-01-14,,SLA Breach,High,Resolved,Finance,West,Hailey Garrett,False,False,5898.17,Visit story action ask enter itself get become deal seem.
+INC-10090,2024-09-14,2024-09-19,,Process Failure,High,Closed,Finance,North,Robert Hanna,True,False,20380.05,Only medical through change same treat general.
+INC-10091,2024-12-17,2024-12-20,2025-01-02,Data Anomaly,Medium,Closed,Risk,South,Todd Lewis,False,False,27643.64,Everyone reality service shoulder day source majority find first different seek bring country.
+INC-10092,2024-06-15,2024-06-25,2024-07-05,SLA Breach,Medium,Resolved,HR,Central,Aaron Strickland,False,False,22851.97,Report product also by attack star talk political view less general.
+INC-10093,2024-04-26,2024-05-06,2024-05-07,Regulatory Breach,Medium,Closed,Operations,East,Veronica Rose,False,False,46187.76,Audience indeed once recently yet this while all big option.
+INC-10094,2024-02-04,2024-02-07,,Data Anomaly,Low,Resolved,Compliance,North,Kevin Smith,False,False,16817.48,Happy single data society less real.
+INC-10095,2024-03-03,2024-03-13,2024-03-15,Process Failure,Critical,Resolved,Compliance,East,David Williams,False,False,11030.57,Participant financial guy far investment company.
+INC-10096,2024-12-02,2024-12-12,2024-12-10,Process Failure,Medium,Resolved,Compliance,South,Timothy Estrada,False,False,48740.06,Other deep three now book citizen individual street appear consumer mouth college common.
+INC-10097,2024-11-14,2024-11-28,,Process Failure,Critical,Closed,Risk,South,Mary Hernandez,False,False,46116.11,Difficult indicate discover wall production save itself kind what.
+INC-10098,2024-06-28,2024-07-01,2024-07-04,Policy Violation,Medium,Resolved,Risk,Central,Colton Crosby,False,False,17374.35,Owner high owner increase hear fill while strategy surface before official sometimes class.
+INC-10099,2024-07-08,2024-07-15,2024-07-19,Data Anomaly,Medium,Resolved,Legal,Central,Rebecca Garza,True,True,22434.09,Company quality manage gas talk ability hope knowledge serve you country develop.
+INC-10100,2024-08-05,2024-08-15,2024-08-25,Vendor Risk,Low,Resolved,Finance,North,Tina Merritt,False,False,24588.32,Actually cost manager law once heavy leader training quality article technology we.
+INC-10101,2024-12-07,2024-12-14,2024-12-09,Process Failure,Critical,Resolved,Legal,South,Alyssa Cook,False,False,6439.23,Five pressure pull miss know ahead series eight color ten outside born within.
+INC-10102,2024-09-11,2024-09-21,,Vendor Risk,Medium,In Progress,Risk,West,Jessica Grant,False,True,1427.71,Number cover bag run TV forward service material maybe.
+INC-10103,2024-02-09,2024-02-16,2024-02-28,SLA Breach,Medium,Closed,Finance,North,Casey Cowan,False,False,47406.91,Yes measure president let gun treat catch half.
+INC-10104,2024-08-23,2024-08-30,2024-08-26,SLA Breach,Low,Closed,Finance,East,David Burns,False,False,39066.33,Leave although boy stand make building there attack improve science about.
+INC-10105,2024-02-09,2024-02-23,2024-02-13,Data Anomaly,Low,Closed,Legal,North,John Horne,True,False,30318.75,Show left professor community by single.
+INC-10106,2024-12-01,2024-12-04,2024-12-07,Vendor Risk,Medium,Closed,HR,East,Xavier Miller PhD,False,True,22389.3,Tend nature enter happen house seat attention arm peace.
+INC-10107,2024-06-04,2024-06-11,,Fraud Alert,Medium,In Progress,Risk,North,Pam Newman,False,False,32410.99,When nearly clearly less local player represent bit film language well late fish.
+INC-10108,2024-02-16,2024-03-01,2024-03-07,Fraud Alert,Medium,Resolved,HR,Central,Luis Flynn,False,False,24043.64,Edge according close hard learn down modern learn hospital.
+INC-10109,2024-03-18,2024-03-21,,SLA Breach,High,In Progress,Compliance,South,Austin Miller,True,False,49553.81,Plant recent fear itself environmental investment.
+INC-10110,2024-09-25,2024-10-09,,Regulatory Breach,Medium,In Progress,HR,East,Nancy Goodwin,False,True,31728.89,Hope truth unit degree decide point analysis see many child song discussion loss.
+INC-10111,2024-06-20,2024-06-23,,Data Anomaly,Medium,In Progress,Operations,North,Ryan Powell DVM,False,False,17816.13,Keep win real sit office capital keep trip finally we.
+INC-10112,2024-12-01,2024-12-11,2024-12-06,Vendor Risk,Critical,Closed,HR,South,Alicia Blair,False,False,37069.35,Its arrive defense compare computer matter none control up benefit after take.
+INC-10113,2024-12-16,2024-12-30,2024-12-19,Process Failure,Medium,Closed,Legal,South,Nicholas George,False,False,10004.26,New name part culture night health four.
+INC-10114,2024-03-11,2024-03-16,2024-03-14,Vendor Risk,High,Resolved,HR,Central,Isabella Garcia,True,False,8531.24,Manage energy born hand top occur forget break approach a reflect dinner what.
+INC-10115,2024-12-20,2025-01-03,2024-12-26,Fraud Alert,Low,Resolved,Compliance,East,Michael Bennett,False,False,12083.15,Avoid evidence international know most challenge which.
+INC-10116,2024-05-02,2024-05-09,2024-05-18,Fraud Alert,Low,Closed,HR,East,Marie Davidson,False,False,21223.71,Common example simple reflect today wait land TV report way.
+INC-10117,2024-03-23,2024-03-28,,Vendor Risk,Low,Resolved,Compliance,North,Mary Warren,False,False,6671.55,Career part themselves put method history prove hard learn control.
+INC-10118,2024-02-12,2024-02-17,2024-02-21,Audit Finding,Medium,Resolved,HR,West,Daniel Lee,False,False,21037.4,Catch focus pass begin side leave cost such agree total lot.
+INC-10119,2024-07-21,2024-08-04,2024-08-02,Vendor Risk,Critical,Resolved,Risk,East,Ronald Smith,False,False,14700.53,Increase parent difference represent cut she stay support outside building situation.
+INC-10120,2024-08-29,2024-09-03,2024-09-14,Audit Finding,Low,Closed,HR,South,Eric Scott,False,False,26624.69,Choose hear religious can firm project eat.
+INC-10121,2024-02-26,2024-03-04,2024-03-05,SLA Breach,Low,Closed,Risk,West,Donald Guerrero,False,True,26011.1,Popular that clearly community real top product fight also person.
+INC-10122,2024-05-03,2024-05-08,2024-05-13,Data Anomaly,Medium,Closed,Technology,North,Kathleen Henry,False,False,47693.48,During light age rather range trip state quite serve certainly.
+INC-10123,2024-10-05,2024-10-19,2024-10-22,Vendor Risk,Medium,Closed,Operations,North,Victoria Russell,False,True,12435.73,Care for skill record left clearly mother if possible friend scientist.
+INC-10124,2024-12-02,2024-12-05,2024-12-21,Data Anomaly,Medium,Closed,HR,West,Roberta Griffith,False,False,9522.76,Piece trade fine have which I establish none.
+INC-10125,2024-03-10,2024-03-13,,Policy Violation,Low,Resolved,Operations,East,Omar Anderson,False,False,27380.02,Sign police whatever enough compare discussion size.
+INC-10126,2024-05-09,2024-05-12,2024-05-16,Process Failure,High,Closed,Risk,East,Mary Ward,False,False,22266.96,Product rate story likely nice vote music rule which perform test.
+INC-10127,2024-07-16,2024-07-23,2024-07-22,SLA Breach,Medium,Closed,Technology,West,Danielle Mckee,True,False,41205.89,Wait explain your rather add project.
+INC-10128,2024-10-06,2024-10-13,,Fraud Alert,Medium,In Progress,Compliance,West,Kevin Walker,False,False,22632.92,Technology line ready art add inside.
+INC-10129,2024-06-29,2024-07-13,2024-07-13,Regulatory Breach,Critical,Resolved,Operations,Central,Margaret Wilson,False,False,47663.08,Him notice economy should toward tree its.
+INC-10130,2024-03-14,2024-03-28,,Vendor Risk,Low,Resolved,Operations,West,David Wilson,False,True,8095.19,Treatment need bed away wind position thank dream live reflect turn group.
+INC-10131,2024-08-18,2024-08-25,2024-08-30,Regulatory Breach,Low,Closed,Operations,East,Casey Lee,False,True,36915.91,Conference east into consumer human eye issue quite send.
+INC-10132,2024-09-12,2024-09-26,2024-09-25,Audit Finding,Low,Closed,Compliance,East,Jennifer Martinez,False,False,10408.83,Method democratic civil throughout garden hold fire our management beat newspaper spring.
+INC-10133,2024-03-10,2024-03-13,,Vendor Risk,High,Closed,Technology,East,Thomas Ramirez,False,False,14872.93,Growth policy live production affect direction state.
+INC-10134,2024-06-02,2024-06-07,2024-06-08,Data Anomaly,Medium,Resolved,Legal,West,Alicia Moore,True,False,18761.1,Staff actually professional evidence both hundred.
+INC-10135,2024-10-09,2024-10-14,2024-10-29,Regulatory Breach,Low,Closed,HR,West,Amy Mathews,False,True,48632.8,Set small responsibility daughter whatever fire special star season.
+INC-10136,2024-11-24,2024-11-27,2024-12-09,Data Anomaly,Medium,Resolved,Finance,Central,Timothy Robbins,False,True,6645.98,Beautiful thousand statement to because indicate fish represent send.
+INC-10137,2024-03-19,2024-03-26,,Process Failure,Critical,In Progress,HR,North,Daniel Hernandez,False,False,27766.65,Wide become property require senior happen represent attention.
+INC-10138,2024-03-05,2024-03-12,2024-03-25,Data Anomaly,Medium,Resolved,Technology,Central,Michael Crawford,False,False,42205.24,Live PM citizen why study nor career thing gas fall individual former.
+INC-10139,2024-10-15,2024-10-18,,Process Failure,Critical,Resolved,Technology,South,Richard Jones,False,False,32130.06,Other also guy article ground view charge modern center per political education care.
+INC-10140,2024-09-11,2024-09-25,2024-09-21,Process Failure,Medium,Closed,Finance,North,Logan Kramer,False,False,21073.28,Probably box computer bring standard scene whether quality.
+INC-10141,2024-08-25,2024-08-30,2024-09-05,Regulatory Breach,Medium,Closed,Legal,East,Patricia West,False,True,12466.02,Mention president authority heavy baby head either hair machine clearly some.
+INC-10142,2024-03-03,2024-03-10,2024-03-18,Regulatory Breach,Low,Closed,Legal,South,Jeffrey Hendricks,False,False,36195.86,Coach billion tell garden social nothing account raise table group reason development land.
+INC-10143,2024-04-07,2024-04-12,2024-04-23,Policy Violation,Medium,Closed,Risk,West,Sheena Moore,False,False,11149.65,Choice service together role less education entire fine quickly if return.
+INC-10144,2024-06-29,2024-07-02,2024-07-01,Process Failure,Medium,Closed,Compliance,North,Holly Norton,False,False,44181.56,Future star remember event reveal close win.
+INC-10145,2024-07-06,2024-07-16,,Vendor Risk,Low,Resolved,Compliance,East,Michael Williams,True,False,38338.0,Food easy number again sea soon win it.
+INC-10146,2024-05-23,2024-06-06,,Vendor Risk,Critical,Escalated,Compliance,East,Jason Moore,False,False,25701.56,Scientist care shake everything degree bar ground talk fall detail professor past even.
+INC-10147,2024-09-13,2024-09-16,,Fraud Alert,High,Closed,Legal,Central,Erin Bender,False,False,46602.75,Such field without player miss true wish indicate live nation.
+INC-10148,2024-06-12,2024-06-17,2024-06-25,Fraud Alert,High,Closed,Technology,Central,Stephanie White,False,False,18733.71,Ten say receive month once crime.
+INC-10149,2024-12-10,2024-12-13,2024-12-24,Fraud Alert,High,Resolved,Operations,Central,Catherine Lindsey,False,False,29384.4,Son Democrat add federal also culture.
+INC-10150,2024-03-28,2024-04-11,2024-04-17,Policy Violation,Medium,Resolved,Compliance,North,Monica Graves,False,False,21229.62,Image short radio Republican staff federal crime certainly carry plan.
+INC-10151,2024-07-30,2024-08-04,2024-08-13,Data Anomaly,Medium,Resolved,Compliance,South,Patricia Brown,False,False,24179.36,Describe discuss note significant step speak close.
+INC-10152,2024-07-11,2024-07-18,2024-07-17,Fraud Alert,Medium,Closed,Legal,South,Dwayne Gonzalez,False,False,47103.53,Stock behavior room now party make heart hour course produce teach put.
+INC-10153,2024-06-01,2024-06-08,2024-06-08,Process Failure,Medium,Closed,Risk,Central,Gina Davila,False,False,49017.95,View business half old book consider.
+INC-10154,2024-06-25,2024-06-30,,Fraud Alert,Critical,Open,Technology,East,Joshua Cannon DDS,False,False,41483.61,Show claim with group allow add word.
+INC-10155,2024-05-18,2024-06-01,,Audit Finding,Medium,Resolved,Risk,Central,Debra Franco MD,False,False,5459.8,Local thousand road protect suffer tend without plan offer value represent.
+INC-10156,2024-06-18,2024-06-28,2024-06-22,Regulatory Breach,Low,Resolved,Technology,West,Jennifer Cooley,False,False,48213.74,Rule seem much figure necessary both.
+INC-10157,2024-06-13,2024-06-20,2024-06-15,Data Anomaly,Low,Resolved,Finance,South,Austin Hinton,False,True,41892.06,Good share right project expert exactly attention sign look mention produce involve.
+INC-10158,2024-09-10,2024-09-15,2024-09-20,Vendor Risk,Low,Resolved,Operations,West,Wayne Campbell,False,False,24948.66,Analysis PM simple election class former itself nor amount way explain.
+INC-10159,2024-03-09,2024-03-23,2024-03-24,Process Failure,High,Closed,Technology,South,Dwayne Rivera,True,False,15103.7,Need work all party while research foot may know side present official.
+INC-10160,2024-12-11,2024-12-16,2024-12-17,Vendor Risk,Medium,Closed,Risk,West,Mrs. Jamie Crosby,False,False,7460.29,Cell over available worker see against whatever individual my city.
+INC-10161,2024-06-14,2024-06-19,2024-06-15,Process Failure,Low,Closed,Compliance,Central,Gary Peck,True,False,34792.05,Agency television material culture expert series rock concern blood.
+INC-10162,2024-02-01,2024-02-04,2024-02-16,SLA Breach,Medium,Closed,Technology,East,Thomas Walker,False,False,47889.35,Institution she final cold over people system wrong present old minute young.
+INC-10163,2024-09-01,2024-09-06,2024-09-16,Audit Finding,Medium,Closed,HR,South,Kevin Hood,False,False,39474.85,Instead now sometimes military whether appear before manager treat last.
+INC-10164,2024-09-26,2024-10-06,2024-10-13,Audit Finding,Low,Resolved,Compliance,Central,Susan Russell,True,False,26256.91,Visit act discuss seat size character laugh dog assume serious what.
+INC-10165,2024-02-29,2024-03-05,2024-03-19,Fraud Alert,High,Resolved,Legal,Central,Mario Allen,False,False,28160.46,Stay protect financial management agency investment tree of growth situation animal space much.
+INC-10166,2024-12-10,2024-12-17,2024-12-11,Policy Violation,High,Resolved,Finance,East,Caleb Jackson,False,False,3482.65,Station organization pass number couple interview leave.
+INC-10167,2024-02-05,2024-02-15,2024-02-07,Vendor Risk,Low,Closed,Finance,West,Tiffany Lambert,False,False,19094.45,Subject onto professor material strong Republican leg campaign perhaps bar a national stock.
+INC-10168,2024-12-15,2024-12-29,2024-12-20,Data Anomaly,Medium,Closed,Technology,South,Aaron Wells,False,False,48935.29,Hard thus relationship heart white challenge pressure remain not industry assume performance try.
+INC-10169,2024-08-25,2024-09-08,2024-09-08,Data Anomaly,High,Closed,Operations,South,Kimberly Webb,False,False,6085.81,Tree raise across my no east policy green idea war so less.
+INC-10170,2024-12-04,2024-12-14,2024-12-24,SLA Breach,High,Resolved,Risk,Central,Claire Williams,True,False,35312.67,Build student each whether early from force which edge discussion score.
+INC-10171,2024-01-25,2024-01-30,2024-01-27,Data Anomaly,Low,Resolved,Compliance,East,Chad Grant,False,False,29017.46,May wind them wife effect marriage value woman chance recently.
+INC-10172,2024-10-22,2024-11-05,2024-11-02,Regulatory Breach,High,Resolved,Operations,East,Nicole Wells,True,False,44045.84,Meet push military decade visit student course.
+INC-10173,2024-03-30,2024-04-09,2024-04-17,Vendor Risk,Critical,Closed,Technology,West,Thomas Lopez,False,False,9602.01,Discuss child group always support be foreign conference throw room.
+INC-10174,2024-10-02,2024-10-12,2024-10-10,Policy Violation,Medium,Closed,Compliance,West,Tyler Johnson,False,False,7137.59,Deal part member seek everyone scene move scene.
+INC-10175,2024-05-04,2024-05-11,2024-05-11,SLA Breach,Low,Closed,Compliance,South,Edward Browning,True,False,30445.99,Specific bar range part many build whom before think water.
+INC-10176,2024-01-21,2024-01-24,2024-01-28,Fraud Alert,Medium,Resolved,Legal,East,Meghan Petty,False,False,10984.48,Couple manager national pass need they eye reveal shake four.
+INC-10177,2024-04-07,2024-04-10,2024-04-23,Audit Finding,Medium,Closed,Compliance,East,Corey Ellis,False,False,26915.68,Fall mother Republican purpose charge over manager record one during development issue we.
+INC-10178,2024-07-02,2024-07-09,2024-07-11,Vendor Risk,High,Closed,Legal,East,Thomas Taylor MD,False,True,43272.2,Member while enter public professor imagine.
+INC-10179,2024-03-15,2024-03-18,2024-03-24,Data Anomaly,Medium,Closed,Legal,East,Vincent Morris,False,False,12663.64,Market use serious live nice kid mean popular race suffer a design.
+INC-10180,2024-10-08,2024-10-15,2024-10-17,Fraud Alert,Medium,Closed,Legal,East,Dustin Sutton,False,False,24671.66,Yourself consumer ball treat film approach security industry top success draw appear walk.
+INC-10181,2024-10-04,2024-10-07,,Policy Violation,High,Closed,HR,North,Katrina Rubio,False,False,11955.95,Tv minute site week life entire add side include especially question measure.
+INC-10182,2024-12-28,2025-01-02,2024-12-29,Fraud Alert,Medium,Closed,Risk,North,Carlos Castro,False,False,1327.94,American degree race face you list lawyer order travel but drop.
+INC-10183,2024-05-20,2024-06-03,,Data Anomaly,High,Resolved,Risk,North,George Duffy,False,False,31179.15,Rich would read professional admit against throughout too majority democratic seem over.
+INC-10184,2024-05-09,2024-05-16,2024-05-18,Audit Finding,Low,Closed,Technology,South,Mr. Mitchell Hayes,False,False,4490.54,Difference environment than follow can million.
+INC-10185,2024-11-28,2024-12-01,2024-12-01,Data Anomaly,Medium,Resolved,Risk,West,Erin Taylor,False,False,16897.9,Imagine trip benefit face probably animal industry whom.
+INC-10186,2024-02-18,2024-03-03,2024-02-20,Process Failure,Critical,Closed,Risk,North,Madeline Richardson,False,False,27380.02,Certain law join three product activity charge choice tend year senior red.
+INC-10187,2024-12-02,2024-12-05,2024-12-08,Regulatory Breach,Medium,Resolved,Risk,East,James Wagner,False,False,41815.2,Record ago many official everything none return film along task probably upon nothing.
+INC-10188,2024-07-18,2024-08-01,2024-07-29,Vendor Risk,High,Resolved,Risk,North,Teresa Ryan,False,False,17359.34,When surface other fact yourself trial.
+INC-10189,2024-11-10,2024-11-24,2024-11-23,Fraud Alert,Medium,Closed,Legal,East,Michelle Barnes,False,False,9694.02,Address in become short buy late wide building begin at why poor claim.
+INC-10190,2024-10-26,2024-11-05,2024-10-29,SLA Breach,Low,Resolved,Operations,South,Holly Bean,False,False,8136.71,Painting from involve manage response group often question race against understand value.
+INC-10191,2024-07-18,2024-07-25,,Vendor Risk,Low,In Progress,HR,East,Richard Rivas,True,True,21833.49,Decade little week ok deep operation arrive find.
+INC-10192,2024-10-12,2024-10-26,2024-10-29,Vendor Risk,Low,Resolved,HR,West,Harry Lamb,True,False,39068.87,Value have per just answer suddenly.
+INC-10193,2024-10-13,2024-10-18,2024-11-01,Process Failure,Medium,Closed,Operations,West,Gregory Hunt,True,False,14160.11,Send cause positive performance staff three natural three seem page air especially college.
+INC-10194,2024-06-02,2024-06-12,2024-06-05,Audit Finding,Critical,Closed,Finance,North,Maria Khan,True,True,20086.75,Eight another writer part maintain do woman thus college.
+INC-10195,2024-11-13,2024-11-23,2024-11-24,Process Failure,Medium,Resolved,Operations,Central,Carrie Hall,False,False,16052.07,Movement sister daughter international rather event piece lot leg mission world mouth military.
+INC-10196,2024-07-22,2024-07-29,2024-08-01,Vendor Risk,Medium,Resolved,Finance,East,Ashley Allen,False,False,6137.45,Start thus political five anything follow color perhaps great.
+INC-10197,2024-10-15,2024-10-20,2024-11-03,Fraud Alert,Low,Resolved,Technology,South,Richard Johnson,False,False,34795.35,Hotel tell indicate indeed project relate.
+INC-10198,2024-07-28,2024-08-07,2024-08-02,Regulatory Breach,Low,Closed,Risk,West,Melissa Abbott,False,False,20339.85,Task respond fall mean claim beautiful politics how.
+INC-10199,2024-09-16,2024-09-26,,SLA Breach,Critical,Resolved,Risk,South,Julie Williams,False,False,32526.49,How such security science turn science eye present need morning.
+INC-10200,2024-01-23,2024-02-06,2024-02-05,Policy Violation,Medium,Resolved,Risk,East,Chelsea Johnson,False,False,28120.67,Once strong help television mother win draw.
+INC-10201,2024-12-18,2025-01-01,2024-12-26,Vendor Risk,Medium,Resolved,Risk,West,Sonia Williams,True,False,48105.53,Among happen foreign matter indeed whatever body affect national.
+INC-10202,2024-02-29,2024-03-05,2024-03-12,Vendor Risk,Medium,Closed,Finance,North,Melissa Johnson,False,False,16286.02,Common subject court individual strong organization purpose lay adult how explain discover.
+INC-10203,2024-06-02,2024-06-05,,Data Anomaly,Medium,Open,Technology,South,William Duncan,False,False,16883.99,Heavy some within because beyond tend.
+INC-10204,2024-08-06,2024-08-16,2024-08-14,Regulatory Breach,Medium,Closed,Risk,Central,Gavin Greene,False,False,21762.87,Mention class sister learn tonight senior build himself class catch option safe consider.
+INC-10205,2024-01-03,2024-01-08,2024-01-10,Data Anomaly,High,Resolved,Operations,East,Sarah Hall,False,True,33699.72,Throughout be front before available development challenge.
+INC-10206,2024-09-07,2024-09-21,2024-09-18,Vendor Risk,Medium,Closed,HR,West,Morgan Moore,False,False,35446.42,Season student team look garden health election kid know customer.
+INC-10207,2024-06-01,2024-06-15,,Process Failure,Low,Open,Risk,South,Emily Santiago,False,False,19728.93,Herself second store Congress health rather.
+INC-10208,2024-11-01,2024-11-06,2024-11-20,Data Anomaly,Low,Resolved,Finance,East,Jeffrey Wallace,True,False,22824.55,Sell physical through black memory other color.
+INC-10209,2024-01-28,2024-02-04,2024-01-29,Regulatory Breach,Low,Closed,Technology,West,Molly Thompson DVM,False,False,24690.63,Stop girl skin official you wall until.
+INC-10210,2024-02-12,2024-02-26,2024-02-13,Process Failure,Low,Resolved,Legal,West,Tammie Mccullough,False,False,25018.01,Although writer agree series guess something clear.
+INC-10211,2024-09-18,2024-09-21,,Vendor Risk,High,Closed,Compliance,North,Christina Nelson,False,False,11317.83,Service loss camera policy specific fine story happen person opportunity election.
+INC-10212,2024-08-05,2024-08-08,2024-08-13,SLA Breach,Critical,Closed,Finance,North,Christine Gray,False,False,40629.78,Everything cover clearly economic large current two better pay chair light its.
+INC-10213,2024-10-28,2024-11-04,2024-11-17,Audit Finding,Low,Resolved,HR,North,William Adams,False,False,30044.46,Job necessary there decision star interview light end almost everyone hard evidence wife.
+INC-10214,2024-03-27,2024-04-03,2024-04-06,Data Anomaly,Low,Resolved,HR,West,Shawn Gordon III,False,False,43418.86,Feeling middle office next play event point beyond some address culture foot crime.
+INC-10215,2024-03-05,2024-03-10,,Regulatory Breach,Medium,In Progress,Finance,South,Nicholas Holmes,False,False,21004.14,Reach return rather stand data power increase money church cost why just body.
+INC-10216,2024-08-19,2024-08-22,2024-08-22,Fraud Alert,High,Closed,Finance,East,Richard Jenkins,False,False,42434.78,Our total board capital experience wife then national and ok deal reality.
+INC-10217,2024-02-17,2024-02-27,2024-02-29,Audit Finding,High,Closed,Finance,East,Mary Powell,False,False,27591.87,Carry learn painting suggest fall drug help nothing matter.
+INC-10218,2024-03-07,2024-03-21,2024-03-23,SLA Breach,High,Resolved,Technology,West,Jillian Hines,True,False,8320.18,Front reality to once good animal minute.
+INC-10219,2024-08-21,2024-08-24,2024-09-04,Data Anomaly,Medium,Closed,HR,East,Kevin Russell,True,False,4579.82,Mrs table outside change decide on happy.
+INC-10220,2024-12-06,2024-12-11,2024-12-08,Regulatory Breach,Medium,Resolved,Technology,North,Traci Gonzalez,False,True,24101.93,Success reality country talk much sea allow.
+INC-10221,2024-03-08,2024-03-22,2024-03-16,SLA Breach,Medium,Closed,HR,West,Lisa Price,False,False,11832.87,Fill population bill model claim language reality business account treat price.
+INC-10222,2024-02-15,2024-02-18,2024-02-19,Data Anomaly,High,Resolved,Risk,Central,Taylor Allen,False,False,8623.77,Tax federal glass fish level draw because once name to entire happen computer.
+INC-10223,2024-06-28,2024-07-03,2024-07-03,SLA Breach,Medium,Resolved,Risk,South,Heather Burns,False,False,19509.58,Deep morning remember everyone though hear talk behavior Republican parent go.
+INC-10224,2024-08-07,2024-08-14,2024-08-12,Policy Violation,Medium,Closed,HR,East,Pamela Duarte,False,False,9838.0,Outside gas market town water bring capital a.
+INC-10225,2024-07-19,2024-07-26,2024-07-21,SLA Breach,High,Closed,Legal,West,Dr. Betty Williams,False,True,44491.86,Decade environmental police time sister his save.
+INC-10226,2024-01-07,2024-01-14,,Vendor Risk,High,Resolved,Compliance,South,Timothy Mays,False,False,38633.17,Challenge church coach yeah rich force cold see director high.
+INC-10227,2024-01-09,2024-01-23,,Regulatory Breach,Low,Closed,Compliance,East,David Holland,False,False,21063.88,Much sense finish strong second a different national require Congress.
+INC-10228,2024-12-25,2025-01-04,2024-12-28,Process Failure,Medium,Resolved,Risk,Central,Douglas Johnson,False,False,8191.17,Trade focus edge own garden he.
+INC-10229,2024-06-16,2024-06-26,2024-07-05,Process Failure,High,Resolved,Technology,West,Kayla Hopkins,False,False,3366.34,The among little affect project particularly.
+INC-10230,2024-02-14,2024-02-24,2024-02-18,SLA Breach,Medium,Resolved,Risk,South,Kyle Shaw,False,False,47674.3,Large effort middle everything least process.
+INC-10231,2024-09-24,2024-10-08,,Process Failure,Low,Resolved,Technology,North,David Vasquez,False,True,40451.84,Per scientist half suffer tell good accept win.
+INC-10232,2024-05-19,2024-06-02,2024-05-22,Fraud Alert,Critical,Closed,Compliance,East,Shirley Benitez,True,False,8760.63,Interesting knowledge run shoulder region western word during blood guy son.
+INC-10233,2024-03-21,2024-03-28,2024-03-25,Policy Violation,Medium,Resolved,HR,North,Martin Taylor,False,False,19457.48,Example read else else state produce.
+INC-10234,2024-03-17,2024-03-22,2024-03-19,Audit Finding,Critical,Closed,Operations,South,Cameron Morales MD,False,False,13927.27,Through describe serve white laugh force move first enter need.
+INC-10235,2024-02-09,2024-02-23,,Audit Finding,Medium,Open,HR,Central,Judith Ellis,False,False,3911.86,Region whatever common top among know head buy sort like look.
+INC-10236,2024-08-26,2024-09-02,2024-09-05,Process Failure,Medium,Resolved,Compliance,East,Shelley Payne,False,False,18729.54,Air specific fine factor skill material only.
+INC-10237,2024-09-09,2024-09-14,2024-09-27,Policy Violation,Low,Closed,Legal,Central,Jeremy Thompson,False,False,43921.33,Way still later common answer say identify us chair sing movement million.
+INC-10238,2024-06-20,2024-06-23,2024-07-03,Regulatory Breach,High,Resolved,Finance,North,Sherry Johnston,False,False,14351.35,Politics example project surface usually guy.
+INC-10239,2024-01-23,2024-01-28,2024-02-09,SLA Breach,High,Resolved,Compliance,South,Daniel Garcia,False,False,29798.84,Line may move popular might floor kid cell hear herself.
+INC-10240,2024-02-01,2024-02-11,2024-02-06,Vendor Risk,Low,Closed,Operations,West,Kyle Reynolds,False,True,10534.28,Risk week represent exactly catch base level.
+INC-10241,2024-10-26,2024-10-29,,SLA Breach,Medium,In Progress,Compliance,East,April Bowers,False,False,15761.23,Fire force head product stop catch rise line impact action place quickly environment picture.
+INC-10242,2024-05-15,2024-05-18,,Policy Violation,Medium,Closed,Legal,East,Jesse Wilson,True,False,48435.8,Explain recognize drive benefit worker north however.
+INC-10243,2024-07-21,2024-08-04,2024-07-23,Regulatory Breach,Low,Resolved,HR,West,Bianca Cooper,False,False,5188.9,Even trip risk quickly production rate car western authority keep budget.
+INC-10244,2024-02-22,2024-02-27,,Data Anomaly,High,Closed,Legal,West,Melanie Jones,False,False,32411.91,Professional risk along factor how arrive rest party fight movement federal agency accept.
+INC-10245,2024-10-25,2024-11-08,2024-11-03,Fraud Alert,Low,Resolved,HR,South,Angela Montgomery,True,False,40539.92,Season either strong kind type offer their effect generation about.
+INC-10246,2024-03-03,2024-03-06,,Regulatory Breach,Critical,Escalated,Finance,North,Christopher Taylor,False,False,18020.19,Whom door computer similar indeed oil wind shake career everybody entire.
+INC-10247,2024-04-05,2024-04-12,2024-04-14,Process Failure,Low,Resolved,Finance,West,Megan Black,False,False,4842.22,Show ever generation drug start politics agreement.
+INC-10248,2024-07-15,2024-07-20,,Policy Violation,High,Resolved,Finance,East,Tasha Vance,False,False,17529.69,Everyone debate conference face between moment value yet.
+INC-10249,2024-10-16,2024-10-30,2024-10-27,Policy Violation,Low,Resolved,HR,East,William Smith,True,False,26706.9,Form western everybody wonder tough risk car cost artist drug.
+INC-10250,2024-10-26,2024-10-31,,Policy Violation,Medium,In Progress,HR,South,Jennifer Nguyen,False,False,19726.91,Leader situation environment outside detail central structure head force statement across in.
+INC-10251,2024-03-29,2024-04-03,2024-04-06,Vendor Risk,High,Resolved,Compliance,Central,Jacob Berg,True,False,41916.49,Bag culture environmental when commercial surface.
+INC-10252,2024-09-09,2024-09-23,,Audit Finding,Low,Open,Risk,Central,Jerry Evans,False,False,30899.67,Commercial network computer TV those task better deep worry statement.
+INC-10253,2024-03-07,2024-03-14,2024-03-13,Data Anomaly,High,Resolved,Compliance,South,Erica Wilkerson,False,False,43103.14,Second person record role energy western understand.
+INC-10254,2024-02-07,2024-02-14,2024-02-20,Regulatory Breach,Medium,Resolved,HR,West,Mr. Jeremy Webb,False,False,48452.77,Economic indicate understand start may kid sense two wait consider organization.
+INC-10255,2024-12-21,2025-01-04,2025-01-02,Process Failure,Medium,Closed,Legal,South,Crystal White,False,False,47460.56,Many that since for you history between never training mind pay.
+INC-10256,2024-07-19,2024-08-02,,Audit Finding,Medium,Closed,Technology,Central,Ms. Katrina Riddle,True,False,16892.84,Lawyer traditional always range though successful else vote win guess letter.
+INC-10257,2024-02-09,2024-02-14,2024-02-21,Vendor Risk,Low,Resolved,Finance,North,Gary Johnson,False,False,3855.84,Buy man career surface score free.
+INC-10258,2024-05-11,2024-05-14,,Data Anomaly,Medium,Escalated,Finance,West,Aaron Padilla,False,False,19079.7,Statement check across glass most concern growth single value apply floor on.
+INC-10259,2024-09-02,2024-09-16,,Process Failure,Low,Closed,Risk,East,Theresa Rodriguez,False,True,17419.51,Build when bag interview middle left drive win quality compare.
+INC-10260,2024-07-11,2024-07-16,2024-07-14,Policy Violation,High,Closed,Finance,South,Daniel Sandoval PhD,False,False,3151.01,Determine firm future oil letter certain something throw sound forward.
+INC-10261,2024-06-18,2024-06-23,2024-06-25,Process Failure,Medium,Closed,Operations,South,David Pierce,True,False,27708.3,Response agency laugh lose from parent involve near.
+INC-10262,2024-09-08,2024-09-13,2024-09-10,Audit Finding,Medium,Closed,Risk,North,Michelle Morales,False,False,48864.36,Dinner remember watch require thought home election away region while positive.
+INC-10263,2024-08-30,2024-09-02,2024-09-09,SLA Breach,Medium,Closed,Technology,Central,Dawn Russell,False,False,19381.54,Either federal four lot hundred manager manager themselves beyond fight if.
+INC-10264,2024-04-05,2024-04-15,2024-04-07,Policy Violation,Medium,Closed,Legal,North,Kayla Munoz,True,False,27301.73,Although practice see positive ability significant his position.
+INC-10265,2024-10-28,2024-11-02,,Fraud Alert,Medium,Resolved,Compliance,South,David Padilla,False,True,45187.47,Drive coach three million visit car direction history message main image.
+INC-10266,2024-12-31,2025-01-03,2025-01-17,SLA Breach,Medium,Resolved,HR,West,Justin Costa,False,False,48622.16,Plant bar newspaper rich anyone land.
+INC-10267,2024-04-08,2024-04-13,2024-04-10,Process Failure,Critical,Resolved,Operations,North,Stacey Miranda,True,False,27826.68,Head country more music act would attorney deal within star scientist.
+INC-10268,2024-05-21,2024-06-04,2024-06-05,SLA Breach,Low,Closed,Finance,South,Jonathan Gomez,True,False,38039.68,Process your season white address could college method.
+INC-10269,2024-02-21,2024-02-24,2024-03-11,Regulatory Breach,High,Closed,Operations,West,Jeremy Simpson,False,False,23915.81,Usually accept century bill throughout child.
+INC-10270,2024-03-29,2024-04-05,,Policy Violation,Medium,Resolved,Finance,East,Miranda Perez,False,True,24023.3,Well chair again probably on job detail we often increase training.
+INC-10271,2024-05-17,2024-05-24,2024-05-18,SLA Breach,High,Closed,HR,South,Oscar House,True,False,22433.98,Parent another future data machine she because sister common staff heart class every.
+INC-10272,2024-06-13,2024-06-20,2024-06-27,Fraud Alert,Low,Closed,HR,Central,Mary Bennett,False,False,26005.85,Common security minute performance lose financial whether computer least different Democrat executive south.
+INC-10273,2024-03-22,2024-03-25,2024-04-01,Data Anomaly,Medium,Resolved,Legal,South,Daniel Benton,False,False,23094.21,Visit glass play success newspaper represent fire song other across.
+INC-10274,2024-07-03,2024-07-08,2024-07-12,Policy Violation,Medium,Resolved,Legal,East,Kathy Daniels,False,False,48045.76,Produce open morning capital wrong we.
+INC-10275,2024-08-30,2024-09-13,2024-09-17,Process Failure,Low,Resolved,Risk,West,Alexander Nixon,True,False,39101.59,Dream Republican break view medical blood stuff beyond understand eat.
+INC-10276,2024-04-19,2024-04-24,2024-04-27,Policy Violation,Low,Resolved,Finance,South,Melissa Gillespie,False,False,918.95,Know identify his charge no hour baby allow.
+INC-10277,2024-05-09,2024-05-23,2024-05-19,Vendor Risk,High,Closed,Finance,East,Patty Tran DVM,False,False,26271.58,Good trouble sport church defense wish memory eye door attack know operation.
+INC-10278,2024-11-15,2024-11-25,,Vendor Risk,Medium,Resolved,Compliance,Central,Greg Bauer,False,False,5851.17,Season soldier tend protect store will much decision senior enough prevent edge middle.
+INC-10279,2024-02-02,2024-02-09,2024-02-11,Audit Finding,High,Closed,Legal,Central,Spencer Coleman,False,False,40368.78,Policy talk special six anything bring.
+INC-10280,2024-11-03,2024-11-13,2024-11-14,Process Failure,High,Closed,Finance,West,Elizabeth Johnson,False,True,35549.41,Do indeed peace onto door happen age hot onto child.
+INC-10281,2024-10-19,2024-10-24,2024-10-30,Vendor Risk,Low,Closed,Compliance,East,Regina Rodgers,False,False,43886.49,Some decide sense among person set time class ability view building long nature.
+INC-10282,2024-04-02,2024-04-09,2024-04-06,Vendor Risk,High,Resolved,Technology,North,Brian Moore,False,False,43635.9,Town bed every wind media exactly low cell local send.
+INC-10283,2024-08-03,2024-08-10,2024-08-15,Policy Violation,Low,Closed,HR,Central,Marilyn Elliott,False,False,23874.87,Blood majority maybe everybody commercial machine wonder.
+INC-10284,2024-04-09,2024-04-23,2024-04-13,Data Anomaly,Medium,Resolved,Legal,South,Michael King,False,False,44695.83,Factor worry by trouble game it entire fine answer deep by trip.
+INC-10285,2024-08-22,2024-08-27,2024-09-02,Data Anomaly,Low,Closed,Operations,North,Patrick Pope,True,False,38179.07,Between reduce hour middle level participant movement build clear start off that teach.
+INC-10286,2024-03-27,2024-04-10,2024-04-02,Regulatory Breach,High,Closed,Finance,West,David Montgomery,False,False,2367.4,Pay whose woman unit already million however prevent trouble summer.
+INC-10287,2024-04-12,2024-04-19,2024-04-13,Policy Violation,High,Resolved,Technology,South,Annette Johns DVM,False,False,15948.57,Environmental range rather anyone in Republican agreement seem state.
+INC-10288,2024-02-22,2024-03-03,2024-03-10,Process Failure,Low,Closed,Finance,Central,Joseph Reed,False,False,44454.72,Nor particularly only coach discuss leave dream buy dog pressure nation arrive drop.
+INC-10289,2024-03-09,2024-03-16,2024-03-25,Policy Violation,Low,Closed,Legal,South,Tracy Shea,False,False,36836.79,Wish allow sea community idea business smile us reason.
+INC-10290,2024-10-28,2024-11-11,,Regulatory Breach,High,Resolved,Technology,East,Grace Osborne,False,False,29899.24,Blue imagine skin back whole main toward might front factor.
+INC-10291,2024-01-25,2024-01-28,,SLA Breach,Low,Escalated,Compliance,East,Travis Rocha,False,False,34912.01,Like keep take involve day way experience have yet be.
+INC-10292,2024-11-18,2024-11-21,2024-11-28,Regulatory Breach,Low,Resolved,HR,North,Cindy Norton,False,False,14493.99,Identify must left billion training political all total should collection expect teach senior.
+INC-10293,2024-02-24,2024-03-05,2024-03-02,Vendor Risk,High,Resolved,Technology,West,Tony Jimenez,False,True,25069.56,Huge difference else available leg make treat.
+INC-10294,2024-04-16,2024-04-26,2024-04-27,Fraud Alert,Low,Resolved,Legal,North,Jennifer Rojas,False,True,36317.02,Address actually quite region sure my.
+INC-10295,2024-05-11,2024-05-16,2024-05-26,Data Anomaly,Low,Resolved,HR,North,Brian Stewart,False,False,33999.94,Dog second do here member before traditional meeting realize some offer western model.
+INC-10296,2024-08-06,2024-08-09,2024-08-10,Data Anomaly,High,Resolved,Operations,East,Keith Escobar,False,False,13781.32,Rather thought dream process part people rich.
+INC-10297,2024-02-17,2024-02-24,,Process Failure,Medium,Closed,HR,West,Lynn Mcknight,False,False,21376.12,Song require but play hospital response some.
+INC-10298,2024-03-26,2024-03-29,2024-03-31,SLA Breach,Low,Resolved,Finance,Central,Gerald Williams,False,False,22189.06,Rock million agency series everything she improve.
+INC-10299,2024-11-08,2024-11-18,2024-11-20,Fraud Alert,High,Resolved,Finance,North,Scott Torres,False,False,3635.13,Reality mouth good beautiful land Democrat generation front assume anything.
+INC-10300,2024-12-01,2024-12-08,2024-12-02,Vendor Risk,Medium,Resolved,Compliance,Central,Stephen Moore,False,False,21925.97,But push guy Mr whether song list skill safe none evening.
+INC-10301,2024-05-07,2024-05-17,2024-05-19,Policy Violation,Medium,Resolved,Technology,South,Jack Weber,False,False,25043.83,Necessary because magazine yourself task treatment room effort become.
+INC-10302,2024-03-25,2024-03-28,2024-04-10,Regulatory Breach,Medium,Resolved,Finance,South,Daniel Hernandez,True,False,28865.23,Organization race loss remember style table agency safe major.
+INC-10303,2024-02-15,2024-02-25,2024-03-01,SLA Breach,Critical,Resolved,Finance,West,Jerry Hudson,True,False,41382.48,Coach full state practice gun accept tree he matter thus maintain.
+INC-10304,2024-11-05,2024-11-19,2024-11-15,Vendor Risk,Medium,Closed,Operations,North,Andrea Coleman,False,False,16932.64,Sea rock nature discuss nation middle do mission western process daughter.
+INC-10305,2024-11-13,2024-11-27,2024-11-29,Audit Finding,Medium,Resolved,Risk,East,Douglas Thomas,False,False,40095.68,Since western attention by know year candidate right also beautiful great into.
+INC-10306,2024-10-07,2024-10-21,2024-10-19,Regulatory Breach,Low,Resolved,Risk,East,Olivia Graham,False,False,46545.7,Organization community key reality realize air include skin market time one.
+INC-10307,2024-07-20,2024-07-25,2024-08-04,Policy Violation,Low,Closed,Technology,Central,Amy Mack,True,False,23140.7,Choose condition when hard miss institution item maintain team character notice.
+INC-10308,2024-10-28,2024-11-11,2024-11-02,Fraud Alert,Low,Closed,Compliance,South,Jodi Harris,False,False,40854.59,Painting radio listen law meeting particular trial.
+INC-10309,2024-02-23,2024-03-04,2024-03-14,Audit Finding,Medium,Closed,Operations,West,Mrs. Tracey Massey DDS,False,False,22915.86,Concern house picture firm source center participant pretty prove especially.
+INC-10310,2024-03-09,2024-03-14,2024-03-23,Audit Finding,High,Closed,Legal,South,Louis Anderson,False,False,17592.03,Feel old put establish keep senior.
+INC-10311,2024-12-10,2024-12-15,2024-12-16,Vendor Risk,Medium,Resolved,Compliance,West,Christian Delgado,False,False,35651.12,Loss decade north save his nation skin every during color clearly son station.
+INC-10312,2024-12-11,2024-12-25,2024-12-21,Policy Violation,Medium,Resolved,Finance,South,Earl Brown,True,True,13715.42,Owner subject thousand team tough from win page per administration family beautiful.
+INC-10313,2024-03-23,2024-03-30,,Audit Finding,Low,Resolved,HR,Central,Erika Meyer,True,False,5572.76,Note receive management world save central page maintain name.
+INC-10314,2024-12-11,2024-12-25,2024-12-19,Policy Violation,Medium,Closed,Finance,West,Jasmine Harris,False,False,34414.86,Head response hotel sure around last have can look place color.
+INC-10315,2024-10-09,2024-10-12,2024-10-10,Audit Finding,Low,Closed,Technology,East,Stacy Mccoy,False,False,30367.66,Ever art cold daughter amount operation short size.
+INC-10316,2024-04-09,2024-04-16,,Data Anomaly,Medium,In Progress,Technology,Central,Luis Mendoza,True,True,14316.06,Yourself military wind age adult affect chance thousand take cover choose find.
+INC-10317,2024-05-15,2024-05-20,2024-05-21,Policy Violation,Low,Resolved,Legal,East,Stacy Gutierrez,False,False,31455.65,Term personal receive them national cold hospital occur notice training method city idea.
+INC-10318,2024-12-04,2024-12-11,2024-12-20,Audit Finding,Medium,Closed,Legal,Central,Johnny Morrow,True,False,21088.6,Choose for company energy relationship stock worker laugh pay watch work.
+INC-10319,2024-10-01,2024-10-11,2024-10-04,Vendor Risk,High,Closed,Operations,South,Alex Sullivan,False,False,24005.43,Road sell ever huge season today military watch card stop institution.
+INC-10320,2024-10-14,2024-10-17,2024-10-18,Policy Violation,Medium,Resolved,Technology,East,James Martinez,False,False,6112.01,For source accept first red she indeed card.
+INC-10321,2024-05-11,2024-05-25,,Fraud Alert,Medium,Resolved,Finance,North,Alyssa Barnett,False,False,16355.48,Memory think bit position onto natural senior TV them song yet staff surface.
+INC-10322,2024-02-12,2024-02-15,2024-02-18,Audit Finding,High,Resolved,Technology,South,Jeffery Ortiz,False,False,5644.38,Like write among chance hour indeed war reality.
+INC-10323,2024-10-02,2024-10-12,2024-10-05,Policy Violation,Low,Closed,Risk,North,Eric Martinez,True,False,28125.17,Reason expert not member summer administration science.
+INC-10324,2024-10-21,2024-10-26,2024-10-30,Policy Violation,Medium,Closed,Finance,North,Amanda Davis,False,False,31108.29,Husband simple loss draw audience show agent still coach thought.
+INC-10325,2024-10-26,2024-10-29,2024-10-29,SLA Breach,Medium,Closed,Operations,West,Dr. Kevin Moyer DVM,False,False,2025.55,Report recent system how exactly research amount dream bill wonder.
+INC-10326,2024-03-21,2024-04-04,,Process Failure,Medium,Resolved,Technology,South,Lisa Daugherty,False,False,48285.59,Statement group yeah clear almost avoid town bank dinner speak our defense despite.
+INC-10327,2024-11-27,2024-12-04,2024-11-28,Regulatory Breach,Medium,Resolved,Compliance,Central,Elizabeth Maldonado,False,False,37540.68,Wife near soldier prepare we focus agency turn moment official office hospital.
+INC-10328,2024-06-25,2024-06-30,2024-07-09,Audit Finding,High,Resolved,Compliance,East,Jeffery Ward,False,False,40083.17,Blood play grow say hit building term be.
+INC-10329,2024-01-28,2024-02-11,2024-02-12,SLA Breach,Low,Closed,Legal,Central,Jennifer Callahan,False,False,6846.65,He rather stay south today environmental now collection myself worker bill bag.
+INC-10330,2024-12-01,2024-12-06,2024-12-05,Fraud Alert,Low,Closed,Operations,Central,Steven Cooper,False,False,8043.55,Age suffer indicate series thus decide station.
+INC-10331,2024-10-17,2024-10-24,2024-10-28,Regulatory Breach,Low,Resolved,Operations,East,Ruth Kramer,True,False,43955.35,Head specific table memory help ten despite stage size.
+INC-10332,2024-08-24,2024-09-03,2024-09-05,Process Failure,Medium,Resolved,HR,South,Michael Edwards,False,False,36810.46,Bar bar likely society space clearly remain.
+INC-10333,2024-11-16,2024-11-19,2024-11-19,Audit Finding,High,Closed,Risk,Central,Jose Patrick,False,False,27214.02,Team though well style tend environment week must class.
+INC-10334,2024-11-30,2024-12-05,2024-12-12,Data Anomaly,High,Closed,Finance,Central,Douglas Mercado,False,False,25357.28,Simply develop forward protect away together wide affect different.
+INC-10335,2024-12-05,2024-12-10,2024-12-25,Data Anomaly,High,Resolved,Compliance,Central,Christopher Wallace,False,False,36928.03,Who tough music student sort record picture effect down.
+INC-10336,2024-09-04,2024-09-11,2024-09-06,Audit Finding,Medium,Closed,Risk,South,Andrea Jones,False,False,19710.61,While partner natural teach quite out describe hard example.
+INC-10337,2024-08-20,2024-08-23,2024-08-22,Process Failure,Medium,Closed,Compliance,Central,Robert Phillips,False,False,19236.67,Mention military generation new poor loss just approach agent.
+INC-10338,2024-10-27,2024-10-30,2024-11-13,Vendor Risk,Critical,Closed,HR,East,Jamie Lewis,False,False,30408.44,Instead energy deal discussion early stage where current new oil almost.
+INC-10339,2024-09-13,2024-09-18,,Audit Finding,Low,Resolved,Legal,South,Tracy Gallagher,False,False,40939.28,Maybe far worker get health sit be eat purpose if police yes human.
+INC-10340,2024-12-04,2024-12-09,2024-12-18,Fraud Alert,High,Closed,Legal,Central,Shawn Jones,False,False,1611.08,Energy himself truth often drive case affect option price first image.
+INC-10341,2024-01-23,2024-01-28,2024-02-11,Policy Violation,Low,Resolved,Legal,East,Jeremy Woodward,False,False,20570.09,Return body short organization take health public later could throw away.
+INC-10342,2024-10-15,2024-10-18,2024-10-25,Fraud Alert,Low,Closed,Legal,South,Lisa Browning,False,False,39833.5,Exactly along phone someone left true although mean from baby speech.
+INC-10343,2024-04-03,2024-04-17,2024-04-20,SLA Breach,High,Closed,Legal,West,Wendy Middleton,False,True,10516.25,Likely try ground forget wide none answer born minute receive your future.
+INC-10344,2024-09-15,2024-09-25,2024-09-20,SLA Breach,Low,Resolved,Risk,West,Jeremy Mcdowell,False,False,27194.66,Politics summer current medical event exactly upon better few describe could suffer.
+INC-10345,2024-01-01,2024-01-11,2024-01-18,Audit Finding,High,Closed,HR,West,Stephen Whitehead,False,False,29657.88,Nice talk ask skin house reduce thank term white kind in.
+INC-10346,2024-12-22,2025-01-05,2024-12-26,Process Failure,Low,Resolved,Compliance,Central,Susan Wagner,False,False,35602.87,Car training understand very claim free huge.
+INC-10347,2024-01-04,2024-01-18,,Vendor Risk,Low,Resolved,Finance,East,April Rose,True,False,29475.82,Use name exactly product many line them chair.
+INC-10348,2024-05-13,2024-05-27,2024-05-27,Audit Finding,Medium,Closed,Finance,Central,Kevin Simmons,False,False,18825.54,Region center clearly career develop project none should politics trial scientist national.
+INC-10349,2024-10-11,2024-10-21,2024-10-20,Data Anomaly,Medium,Closed,HR,North,Lauren Schmidt,False,False,35115.92,His dinner realize upon important her leave everything agreement now alone.
+INC-10350,2024-03-23,2024-03-26,2024-03-30,Data Anomaly,High,Resolved,Finance,North,Brian Tyler,False,False,23847.6,Affect consider commercial door girl expect air whose nice owner performance themselves just.
+INC-10351,2024-11-03,2024-11-13,,Policy Violation,Low,Open,Technology,West,Jorge Gray,False,False,32980.67,Agent parent rule contain bed factor price challenge.
+INC-10352,2024-05-26,2024-06-09,2024-05-28,Policy Violation,High,Closed,Legal,Central,Kenneth Callahan IV,False,True,30175.99,Face five art three TV rest service be law data feeling.
+INC-10353,2024-09-21,2024-09-26,,Policy Violation,Low,In Progress,Legal,North,Katherine Vazquez,False,False,17979.82,Find phone light really history pretty wide under.
+INC-10354,2024-07-21,2024-07-31,2024-08-09,Process Failure,Low,Resolved,Technology,Central,Jennifer Hatfield,False,False,48182.74,Feel agent receive friend wife series recent say.
+INC-10355,2024-05-21,2024-05-26,2024-06-10,Process Failure,Medium,Resolved,Legal,West,Richard Johnson,False,False,25406.87,Performance special sort begin claim ahead yourself result own group they art forget.
+INC-10356,2024-06-23,2024-06-26,2024-07-10,Fraud Alert,High,Closed,Finance,Central,Richard Watson,False,False,17313.21,Animal behind example performance I section.
+INC-10357,2024-08-22,2024-09-01,2024-09-10,Audit Finding,Medium,Closed,Technology,South,Linda Martinez,False,False,17978.27,Professor camera cause news source student message hear candidate.
+INC-10358,2024-10-01,2024-10-04,2024-10-10,SLA Breach,Low,Closed,Compliance,South,Brenda Johnson,False,False,44768.65,Offer clear at that write hit glass sea none live low tend.
+INC-10359,2024-05-17,2024-05-22,2024-05-24,Audit Finding,Low,Closed,Legal,South,Jessica Johnson,False,False,18123.35,Truth life set task make whole then week fall.
+INC-10360,2024-02-24,2024-02-27,2024-02-27,Fraud Alert,Medium,Resolved,Operations,Central,Allison Garcia,False,False,44108.87,Him animal require film accept stage to music large suggest common court nor.
+INC-10361,2024-10-21,2024-10-28,,Regulatory Breach,High,Resolved,Legal,Central,Samantha Garcia,True,False,21447.21,Plan stay game business suffer wear.
+INC-10362,2024-10-03,2024-10-06,2024-10-20,SLA Breach,High,Closed,Technology,Central,Jennifer Robinson,False,False,1085.09,Another management happen fund easy me piece include hit star woman agent.
+INC-10363,2024-04-17,2024-04-27,,Data Anomaly,Medium,Closed,Compliance,East,James Martin,False,False,30847.66,Network wish particular remember eye we spring fly place coach four fire.
+INC-10364,2024-07-06,2024-07-11,2024-07-22,Regulatory Breach,Medium,Closed,Operations,West,Jordan Curtis,False,False,29006.69,Lay decision political right significant person woman because fast drug follow.
+INC-10365,2024-04-27,2024-04-30,2024-05-06,Data Anomaly,Medium,Resolved,HR,South,Doris Livingston,False,True,21365.27,Current myself bit young grow plan plant start possible challenge page.
+INC-10366,2024-03-09,2024-03-23,2024-03-27,Regulatory Breach,High,Resolved,Risk,South,Phillip Conway,True,False,24088.7,Southern avoid audience marriage nearly skill democratic benefit white hope owner.
+INC-10367,2024-11-18,2024-11-21,2024-12-03,Vendor Risk,Low,Closed,Risk,West,Emily Cook,True,False,48174.27,Growth act simply fish they imagine news follow camera join approach start behavior.
+INC-10368,2024-04-11,2024-04-25,2024-04-30,Vendor Risk,Medium,Closed,Operations,Central,Mary Pope,False,False,44536.81,Blood purpose project claim despite within much.
+INC-10369,2024-07-14,2024-07-28,2024-07-24,Regulatory Breach,Critical,Closed,Technology,Central,John Nelson,False,False,4031.53,Federal sit approach model opportunity him will teacher.
+INC-10370,2024-03-23,2024-03-30,2024-03-31,Process Failure,Medium,Closed,Finance,East,Olivia Tucker,False,False,22789.29,Seat deep how sister notice account interest whom economic.
+INC-10371,2024-03-26,2024-03-31,,SLA Breach,Low,In Progress,Legal,South,Zachary Gray,False,True,46871.29,Crime mouth wife late throw raise discussion benefit well list memory again baby.
+INC-10372,2024-08-30,2024-09-13,,SLA Breach,Medium,Resolved,Risk,East,Kathleen Finley,False,True,46613.68,Right law learn already mouth hundred guess.
+INC-10373,2024-07-18,2024-07-25,2024-07-26,Data Anomaly,Low,Resolved,Risk,North,Nicole Farley,False,False,16597.47,Beat top begin current store live say one account return husband.
+INC-10374,2024-08-31,2024-09-10,2024-09-18,Fraud Alert,Medium,Resolved,Technology,Central,Krystal Castro,False,False,26922.31,Behavior law agreement technology some education mother whether star range someone prepare strong.
+INC-10375,2024-06-26,2024-07-06,2024-07-14,Process Failure,Low,Closed,Legal,East,Angel White,True,False,38035.53,Feeling around the defense popular involve pay energy coach.
+INC-10376,2024-03-10,2024-03-17,2024-03-20,Process Failure,Low,Closed,Risk,West,Brandi Myers,False,False,39939.99,Enter fine charge price early official part.
+INC-10377,2024-10-07,2024-10-14,2024-10-14,Regulatory Breach,Medium,Resolved,HR,West,Raymond West,False,True,31453.49,Prevent house world yourself way story wear medical certainly.
+INC-10378,2024-09-21,2024-10-05,2024-09-30,Audit Finding,High,Closed,HR,North,Jennifer Carter,False,False,32026.19,Late couple two time up drive.
+INC-10379,2024-11-12,2024-11-22,2024-11-21,Policy Violation,Medium,Resolved,Compliance,North,Joshua Pope,False,True,13825.16,Allow key particularly born more discover civil anyone develop.
+INC-10380,2024-08-12,2024-08-15,,Regulatory Breach,Low,In Progress,Operations,West,Robert Ruiz,False,False,39675.52,Environment agreement much size design maybe factor since personal beautiful worker.
+INC-10381,2024-06-18,2024-06-21,,Fraud Alert,High,Open,Legal,South,Emily Taylor,False,False,19388.08,Not box bed first vote customer.
+INC-10382,2024-01-07,2024-01-10,2024-01-15,Audit Finding,Critical,Resolved,Finance,North,Ann Gonzales,False,False,23904.86,Minute expect operation must we former save.
+INC-10383,2024-12-14,2024-12-21,,SLA Breach,High,Resolved,Operations,West,Robert Underwood,False,False,44432.22,Nor state dinner hope main him another material fly reality tax.
+INC-10384,2024-12-07,2024-12-12,2024-12-11,SLA Breach,Medium,Closed,Finance,South,Joseph Aguilar,True,True,39282.02,Score religious thought quickly certainly production just investment.
+INC-10385,2024-08-31,2024-09-14,2024-09-05,Vendor Risk,Low,Resolved,HR,North,Mark Mason,True,False,35215.74,Reason heavy involve good strong dog.
+INC-10386,2024-02-24,2024-02-29,2024-03-11,Fraud Alert,Critical,Closed,Technology,South,Susan Bailey,True,False,36357.76,Success them arrive recognize cover lay step change.
+INC-10387,2024-05-08,2024-05-11,2024-05-24,Audit Finding,Medium,Closed,Compliance,South,Erica Thompson,False,False,23685.54,At can hot lose spring free series.
+INC-10388,2024-11-02,2024-11-16,,Process Failure,Low,In Progress,Compliance,East,Nicholas Roberts,False,False,25544.91,Leave street onto also sing themselves style through magazine money.
+INC-10389,2024-04-04,2024-04-07,2024-04-24,Regulatory Breach,High,Resolved,Legal,Central,Crystal Phelps,False,False,8129.51,Make tell whom against participant too.
+INC-10390,2024-05-24,2024-05-31,2024-06-07,Policy Violation,Low,Resolved,HR,South,Nicholas Thomas,False,True,5799.23,Check next arm throughout store attorney boy can art lawyer.
+INC-10391,2024-04-08,2024-04-11,2024-04-10,Policy Violation,High,Closed,Operations,South,Michelle Lane,False,True,46545.45,Born no risk science late today including.
+INC-10392,2024-04-16,2024-04-26,2024-04-19,Vendor Risk,Medium,Closed,HR,North,Katherine Martinez,False,False,2512.33,Kitchen bank price keep charge which management join production movement baby form watch.
+INC-10393,2024-02-06,2024-02-13,2024-02-09,Regulatory Breach,Critical,Resolved,Legal,South,Katrina Good,False,False,31453.59,Hit should interest tough data throughout story.
+INC-10394,2024-04-01,2024-04-15,2024-04-19,Fraud Alert,Low,Closed,Technology,West,Derrick Graves,False,False,9429.63,Increase those center toward identify summer.
+INC-10395,2024-07-24,2024-08-07,2024-08-04,Vendor Risk,Medium,Closed,Compliance,East,Jacqueline Frank,False,False,31845.42,Site week right prove study reduce direction democratic water particularly.
+INC-10396,2024-06-14,2024-06-28,2024-06-22,Vendor Risk,Low,Closed,Finance,West,Eddie Reese,False,True,2215.81,Sense current affect state president give across future lawyer especially security.
+INC-10397,2024-05-25,2024-06-08,2024-05-26,Audit Finding,Critical,Closed,Legal,East,Renee Davis,True,False,34641.1,Outside or think strong market most you between every age.
+INC-10398,2024-05-21,2024-06-04,2024-06-07,Fraud Alert,Critical,Resolved,Operations,South,James Shannon,True,False,29316.71,Firm society forward someone research hear middle wrong suddenly memory.
+INC-10399,2024-04-29,2024-05-06,,SLA Breach,Medium,Closed,Technology,East,Kathryn Hebert,False,False,41372.41,Boy sit these next enough white could least agree front staff.
+INC-10400,2024-12-19,2025-01-02,2024-12-23,SLA Breach,Medium,Closed,HR,North,John Hill,False,False,44049.73,Only agent bag care scene politics assume common effect.
+INC-10401,2024-08-10,2024-08-20,2024-08-14,Regulatory Breach,Low,Resolved,Risk,East,Philip Sanders,False,False,28463.19,Myself degree adult simply people man.
+INC-10402,2024-06-16,2024-06-30,,Fraud Alert,Medium,Closed,HR,Central,Dr. Katherine Stewart,False,True,21880.82,Season memory perform example writer perhaps treat executive born mind sign fund.
+INC-10403,2024-07-20,2024-07-25,2024-07-25,Process Failure,Medium,Closed,Risk,West,Alexandra Greer,False,False,6953.57,Lot thank receive decide cell on language may fine form wind language.
+INC-10404,2024-03-10,2024-03-20,,Audit Finding,Medium,Resolved,Legal,North,Gregory Watkins,False,False,34394.53,Travel environment word share pattern election Mr bed training.
+INC-10405,2024-10-21,2024-10-24,2024-10-25,Vendor Risk,Medium,Closed,Compliance,North,Catherine Lopez,False,False,17810.96,Leader approach commercial behavior Republican ball town hospital term big blue a draw.
+INC-10406,2024-08-14,2024-08-28,2024-08-19,Data Anomaly,Critical,Closed,HR,North,Melinda Miller,True,True,47472.58,Option enough general foreign economy democratic edge different sing anyone.
+INC-10407,2024-03-16,2024-03-23,2024-03-17,Policy Violation,High,Closed,Operations,South,Michael Alvarez,False,False,27548.0,Let body character pressure at food interest street prove eye material too he.
+INC-10408,2024-05-12,2024-05-26,2024-05-28,Regulatory Breach,Critical,Resolved,Compliance,Central,Nicole Johnson,True,False,14558.67,Where experience pattern commercial happy pull.
+INC-10409,2024-12-22,2025-01-05,,Regulatory Breach,Medium,Open,Technology,East,Tonya Martin,False,False,18330.85,Art president lose different admit point.
+INC-10410,2024-02-25,2024-02-28,2024-03-06,SLA Breach,Medium,Closed,Operations,West,Matthew Trevino,False,False,9727.66,Congress set property research several later cover base these guess.
+INC-10411,2024-09-13,2024-09-23,2024-10-01,Vendor Risk,Low,Closed,Finance,West,Michael Stewart,False,True,34373.41,Pull six lawyer world figure visit radio he itself keep attorney century.
+INC-10412,2024-06-30,2024-07-07,2024-07-08,Process Failure,Critical,Resolved,Finance,North,Brett Perry,False,False,11666.34,Run change instead appear outside stock their light pick serious contain case.
+INC-10413,2024-06-23,2024-07-03,,Audit Finding,Medium,Closed,Finance,South,Diane Davis DDS,False,False,15962.95,Analysis argue pay law modern manage new view.
+INC-10414,2024-11-05,2024-11-12,2024-11-20,Data Anomaly,Low,Resolved,Operations,Central,Thomas Costa,False,False,45495.6,Still you site hope range month once guy goal traditional.
+INC-10415,2024-03-15,2024-03-29,2024-03-21,Data Anomaly,Medium,Resolved,Operations,South,Kristen Byrd,False,False,44066.53,Director article head painting kitchen possible military politics minute candidate word.
+INC-10416,2024-07-30,2024-08-09,2024-08-09,Data Anomaly,Critical,Closed,HR,South,Richard Smith,True,False,38241.15,Seem among board much its give task draw customer this large how.
+INC-10417,2024-11-09,2024-11-23,2024-11-18,Policy Violation,Medium,Resolved,Operations,North,Diane Roth,False,False,25365.07,Always ground car develop analysis child.
+INC-10418,2024-11-05,2024-11-15,,Data Anomaly,Medium,Resolved,Legal,South,David Luna,True,False,1243.21,High specific record never reality close rule new prevent fine call.
+INC-10419,2024-05-18,2024-05-28,2024-05-26,Data Anomaly,Critical,Resolved,Finance,Central,Melissa Lewis,False,False,23148.47,Meeting check position rate authority play skin organization why hundred leave hit continue.
+INC-10420,2024-05-06,2024-05-16,2024-05-19,Regulatory Breach,Medium,Closed,Compliance,Central,Susan Howard,False,False,43851.26,Mission condition history sense make leg.
+INC-10421,2024-01-20,2024-02-03,2024-01-24,Regulatory Breach,High,Resolved,Technology,North,Alicia Sutton,False,False,31717.1,Might key evening identify learn career them by southern image sell.
+INC-10422,2024-01-26,2024-01-31,2024-02-05,Fraud Alert,High,Closed,Legal,West,Helen Woods,False,False,34652.67,Plan out human at southern bank.
+INC-10423,2024-03-13,2024-03-23,,Data Anomaly,Medium,In Progress,Finance,West,Sandra Esparza,False,True,22957.2,Pick responsibility question maybe own staff baby.
+INC-10424,2024-12-30,2025-01-04,,Data Anomaly,Medium,Resolved,Technology,North,Douglas Perkins,True,False,31886.58,Improve modern past teach activity evidence world effect order of defense.
+INC-10425,2024-02-13,2024-02-27,2024-02-26,Regulatory Breach,Critical,Resolved,Compliance,West,Jill Waters,True,False,17092.06,Ground maintain knowledge lawyer our today through let standard kitchen guy.
+INC-10426,2024-12-03,2024-12-08,2024-12-09,Process Failure,Low,Closed,Operations,West,Patrick Johnson,False,False,44977.82,Challenge near song common woman stay.
+INC-10427,2024-04-13,2024-04-16,2024-05-03,Policy Violation,Low,Closed,Compliance,West,James Garcia,False,False,24047.74,College create tree skill large until card cold full when.
+INC-10428,2024-07-28,2024-08-07,2024-07-31,Audit Finding,Low,Closed,Risk,South,Melody Smith,True,False,2317.69,Individual or window either interview born such individual time.
+INC-10429,2024-01-17,2024-01-31,2024-02-06,Data Anomaly,Critical,Closed,Legal,East,David Lewis,False,False,29950.96,Heavy this recently bank room difference fly poor.
+INC-10430,2024-10-14,2024-10-19,2024-10-29,Vendor Risk,Medium,Closed,Operations,West,Susan Sanchez,False,False,42243.83,Occur maintain year particularly of sister mother worry boy part marriage seat.
+INC-10431,2024-02-03,2024-02-10,,Regulatory Breach,Medium,In Progress,Compliance,South,Jennifer Farmer,False,False,5910.46,Interesting look those leg others various.
+INC-10432,2024-11-18,2024-12-02,2024-11-21,Regulatory Breach,Medium,Closed,Compliance,East,Karen Boyer,False,False,31350.59,Special almost break weight toward business red soldier almost.
+INC-10433,2024-03-07,2024-03-21,2024-03-26,Audit Finding,High,Resolved,Technology,East,Kristopher Harvey,False,True,1687.35,How sit happen choice section across building expect picture start difference.
+INC-10434,2024-11-16,2024-11-19,2024-11-23,Vendor Risk,Critical,Closed,Compliance,South,Margaret Simmons,True,False,14440.52,Head him into including decision goal dog.
+INC-10435,2024-02-04,2024-02-11,2024-02-14,Vendor Risk,Medium,Closed,Finance,Central,Shannon Williams MD,False,True,9193.64,Before top seven off campaign doctor outside lay image husband whole.
+INC-10436,2024-06-18,2024-06-25,2024-07-04,Data Anomaly,High,Closed,Technology,West,Jason Smith,False,False,17087.93,Glass nation evidence stay pass piece fly good mean.
+INC-10437,2024-07-30,2024-08-02,2024-08-16,Audit Finding,High,Resolved,Compliance,East,Bobby Le,False,False,18002.98,During song play executive require trade road knowledge soldier cup.
+INC-10438,2024-03-17,2024-03-24,2024-03-18,Regulatory Breach,Medium,Resolved,Legal,Central,Brenda Santos,True,False,15759.93,Trial community probably kind subject hope street remember surface positive.
+INC-10439,2024-06-10,2024-06-13,2024-06-19,Process Failure,Medium,Closed,Legal,Central,Willie Rivas,False,True,39354.73,Could example course ago take radio consider article tough truth compare.
+INC-10440,2024-04-13,2024-04-16,2024-04-28,Audit Finding,High,Resolved,Operations,West,Candice Moore,False,False,38888.89,Professional suddenly away participant budget walk city your.
+INC-10441,2024-03-14,2024-03-17,2024-03-31,Regulatory Breach,Low,Closed,Technology,Central,Cory Simmons,True,False,2679.48,Happy issue woman try collection amount course theory record less.
+INC-10442,2024-10-31,2024-11-03,2024-11-11,Policy Violation,Low,Closed,Compliance,East,Ryan Davila,False,False,10427.5,Consider about term probably large main send not well task.
+INC-10443,2024-05-26,2024-06-02,2024-06-13,Data Anomaly,Medium,Resolved,Operations,North,Jonathan Gallagher,True,False,25946.0,Teacher how floor may party part church medical check prevent.
+INC-10444,2024-04-15,2024-04-29,2024-04-27,Audit Finding,Low,Closed,Legal,North,Brittany Mills,False,False,27258.57,Really dream management paper success still two.
+INC-10445,2024-01-26,2024-01-31,2024-01-27,SLA Breach,Medium,Resolved,Finance,West,Gabriel Stout,False,False,29841.43,Raise computer seem green member job leave first sound these.
+INC-10446,2024-12-19,2024-12-29,2025-01-08,Fraud Alert,Medium,Resolved,Compliance,South,Judith Cook,True,False,35080.67,Night significant choice politics somebody guy choose.
+INC-10447,2024-02-19,2024-02-29,2024-02-29,Audit Finding,High,Resolved,Legal,Central,Melissa Roman,False,False,9575.98,Oil themselves necessary TV evening attorney specific.
+INC-10448,2024-12-06,2024-12-13,2024-12-17,Fraud Alert,Low,Closed,Finance,South,Eugene Brooks,False,False,28946.57,Age live history model so try environment economy safe mouth money rate party.
+INC-10449,2024-09-17,2024-09-20,2024-09-30,Process Failure,High,Resolved,Compliance,West,George Beard,False,False,31233.3,To fear bank simply hold collection eye which.
+INC-10450,2024-10-07,2024-10-12,2024-10-23,Regulatory Breach,Medium,Closed,Compliance,East,Janice Bruce,False,False,33299.31,Care feel list sea phone control away receive should.
+INC-10451,2024-02-09,2024-02-23,,SLA Breach,Medium,In Progress,HR,West,Teresa Roberts,False,False,3945.58,Town world hotel arrive media answer pressure yeah story industry various experience.
+INC-10452,2024-02-25,2024-03-10,2024-03-09,Data Anomaly,Medium,Resolved,Compliance,North,Kenneth Griffin,False,False,22922.23,His attack free provide area few growth.
+INC-10453,2024-05-29,2024-06-08,2024-06-18,Process Failure,Low,Closed,Compliance,East,Douglas Lloyd,False,False,36030.67,Future season letter country break reduce second note compare support change the many.
+INC-10454,2024-06-25,2024-06-28,,Data Anomaly,Critical,Escalated,HR,East,Jamie Cherry,True,False,48411.03,Amount kind by contain card often.
+INC-10455,2024-01-01,2024-01-15,,Regulatory Breach,Low,Open,Technology,Central,Jesse Porter,False,False,19448.09,Include beautiful Mrs single purpose stage name product south simply world.
+INC-10456,2024-07-14,2024-07-24,2024-08-01,Vendor Risk,Low,Closed,HR,West,Nicole Hansen,False,False,33668.27,Require whose trial doctor see scientist thus arm newspaper see well.
+INC-10457,2024-03-09,2024-03-12,2024-03-12,Data Anomaly,Low,Closed,Risk,South,Lori Wilson,False,False,23073.42,Head early information still rule wish police reveal bad administration quickly source.
+INC-10458,2024-12-22,2025-01-05,2025-01-05,Regulatory Breach,Medium,Closed,Operations,South,Kevin Lewis,False,False,29107.96,Effort trip next sign family focus.
+INC-10459,2024-05-01,2024-05-15,2024-05-10,Fraud Alert,Medium,Resolved,Technology,East,Elizabeth Jacobs,True,False,34679.61,Ever plan behavior public natural law them year themselves detail miss within away.
+INC-10460,2024-03-13,2024-03-27,2024-03-22,Audit Finding,Low,Resolved,Finance,North,Robert Scott,False,False,29191.61,Safe list life experience attention rest west anything owner already before executive.
+INC-10461,2024-11-09,2024-11-12,2024-11-20,Vendor Risk,Low,Closed,Finance,East,Cassie Villarreal,False,False,14815.82,Herself entire plant score official individual song view then interview heavy test force.
+INC-10462,2024-01-19,2024-02-02,2024-01-29,Data Anomaly,Medium,Closed,Compliance,North,Catherine Watkins MD,False,False,37000.31,Movie official practice employee own national cultural I alone.
+INC-10463,2024-01-14,2024-01-21,,Process Failure,Medium,Closed,Operations,South,Shawn Harrison,False,False,13219.31,Raise nature specific under pressure without central money effect job white project.
+INC-10464,2024-02-27,2024-03-12,2024-03-04,Data Anomaly,High,Closed,Operations,South,Shelley Johnson,False,False,43169.71,Certain across woman particularly of face win seat any support.
+INC-10465,2024-06-24,2024-06-27,2024-06-29,Regulatory Breach,High,Closed,Legal,West,Michael Frederick,False,False,29098.99,Camera fight worker five prove sense firm exactly security present purpose artist American.
+INC-10466,2024-06-25,2024-06-28,2024-07-04,Fraud Alert,Low,Closed,Operations,West,Andrew Conley,False,False,26859.78,Main goal loss arm determine traditional upon.
+INC-10467,2024-07-13,2024-07-23,2024-07-29,Fraud Alert,Medium,Closed,Finance,East,David Long,False,False,2530.37,She too send perhaps treat surface seek significant opportunity relationship many black employee.
+INC-10468,2024-09-29,2024-10-06,2024-10-13,Process Failure,Medium,Closed,HR,North,Timothy Ramirez,False,False,23324.88,Teacher week evidence smile as hit pretty stop per wall take perform low.
+INC-10469,2024-12-11,2024-12-16,2024-12-30,Vendor Risk,Medium,Resolved,Compliance,North,Amanda Roth,False,False,1092.09,Newspaper popular maybe indicate land finish.
+INC-10470,2024-02-20,2024-03-05,2024-02-24,Audit Finding,Medium,Closed,Risk,North,Shannon Benjamin,False,True,29909.86,Majority establish case consider husband respond phone.
+INC-10471,2024-04-21,2024-05-05,2024-04-25,Regulatory Breach,Low,Resolved,Technology,Central,Mr. Donald Smith,False,False,5986.83,College chair off worker research life determine hot level side put treatment memory.
+INC-10472,2024-04-04,2024-04-11,2024-04-14,Regulatory Breach,Critical,Closed,Technology,East,Daniel Hernandez,False,False,14225.73,Degree outside kind ok yet organization true public unit leg direction south actually.
+INC-10473,2024-02-01,2024-02-11,2024-02-14,Data Anomaly,Low,Closed,Finance,North,David Pitts,False,False,30709.94,Effect report Congress collection edge occur.
+INC-10474,2024-04-01,2024-04-11,,SLA Breach,High,In Progress,Finance,East,Whitney Ortega,True,True,28781.56,Last here whole instead feeling reach per our girl.
+INC-10475,2024-05-08,2024-05-18,2024-05-09,Regulatory Breach,Low,Resolved,Operations,South,Albert Franklin,False,False,28944.69,Reveal benefit talk always yourself establish night boy try not how money.
+INC-10476,2024-09-20,2024-09-30,2024-10-06,Audit Finding,High,Resolved,Risk,West,Lisa Miller,False,False,24362.28,Since cover per ten accept scene nothing from simple main.
+INC-10477,2024-10-17,2024-10-31,2024-10-29,Vendor Risk,Medium,Resolved,Compliance,East,Heather Salazar,True,False,38442.15,Business art wonder operation professional body and more friend key picture article stuff.
+INC-10478,2024-11-27,2024-12-02,2024-12-03,Regulatory Breach,Critical,Closed,Risk,East,Catherine Skinner,False,False,22180.2,Couple do situation even account customer sure arrive whose during already.
+INC-10479,2024-04-07,2024-04-12,,Fraud Alert,High,Resolved,Finance,North,Chad Odonnell,False,False,25234.37,Try occur century degree identify right piece step several history industry she reality.
+INC-10480,2024-08-18,2024-08-21,2024-08-20,SLA Breach,Medium,Closed,Legal,Central,Lauren Harris,False,False,43775.64,Building method option perhaps read walk.
+INC-10481,2024-03-17,2024-03-31,2024-03-25,Fraud Alert,Low,Resolved,Compliance,North,Christopher Newman,False,False,1211.08,Tend administration drug may next choice role imagine possible stock.
+INC-10482,2024-11-19,2024-11-22,2024-11-29,SLA Breach,Low,Resolved,Risk,West,Elizabeth Miller,False,False,3623.95,Government country question trip mean behind nor wear technology meeting.
+INC-10483,2024-04-13,2024-04-23,2024-04-24,SLA Breach,Critical,Closed,Technology,Central,Jennifer Castaneda,False,False,48252.27,Whether skin stay nation choice share stop cell.
+INC-10484,2024-04-19,2024-04-22,,Regulatory Breach,Low,In Progress,Legal,East,Samantha Evans,False,False,46320.94,Light budget reflect together available effort reality ball building two late record.
+INC-10485,2024-01-21,2024-01-26,2024-01-25,Policy Violation,Medium,Resolved,Finance,North,Mark Mcdonald,True,False,4912.49,Effort quickly research ground wife want stay than chair.
+INC-10486,2024-11-29,2024-12-13,2024-12-09,Audit Finding,High,Resolved,Legal,East,David Bullock,False,False,46935.44,Mind risk begin series area walk town return might industry.
+INC-10487,2024-11-08,2024-11-11,,Process Failure,Medium,Closed,Operations,West,Elizabeth Sheppard,True,False,6316.64,Group daughter factor cover speech voice despite miss.
+INC-10488,2024-09-28,2024-10-01,2024-10-18,Fraud Alert,High,Resolved,HR,South,Brian Wallace,False,False,39932.34,Probably particularly series senior really always way these away choose car no fine.
+INC-10489,2024-12-16,2024-12-26,,Vendor Risk,Medium,Open,Operations,South,Elizabeth Green,False,False,40355.11,Myself interesting right into report argue.
+INC-10490,2024-08-20,2024-08-23,2024-08-24,Fraud Alert,Critical,Resolved,Compliance,North,Christian Nunez,True,False,22518.63,Test voice direction list today report.
+INC-10491,2024-10-23,2024-10-30,,SLA Breach,Medium,In Progress,Operations,South,Caroline Robinson,True,False,43559.37,Republican us treatment operation crime PM positive kid tell money most alone American.
+INC-10492,2024-07-11,2024-07-16,2024-07-14,Audit Finding,Medium,Resolved,Compliance,West,Billy Garcia,False,False,23158.14,Note produce practice may miss story heart view lead foot strategy.
+INC-10493,2024-04-09,2024-04-16,2024-04-18,Process Failure,Low,Resolved,Legal,North,Rebecca Braun,False,False,8974.47,Fear certain never can leave much knowledge billion.
+INC-10494,2024-06-24,2024-06-29,2024-07-04,Audit Finding,High,Resolved,Risk,West,Shawn Stanley,False,False,49785.38,Force yet coach design rate in group trial day.
+INC-10495,2024-10-29,2024-11-08,2024-11-13,Audit Finding,High,Resolved,Operations,West,Courtney Barajas,False,False,29792.7,Minute ever alone difficult city film minute first.
+INC-10496,2024-03-17,2024-03-31,2024-03-18,Regulatory Breach,Low,Resolved,Compliance,West,Adam Price DVM,False,False,41153.92,Beautiful anything evening like responsibility officer stop Mr produce over attorney real once.
+INC-10497,2024-08-19,2024-08-29,,Regulatory Breach,High,Resolved,Legal,South,Carolyn Meadows,False,False,49948.11,Single senior often name spend subject.
+INC-10498,2024-01-09,2024-01-19,,Policy Violation,Medium,Resolved,Finance,West,Amanda Cole,False,False,20565.34,Go we start much herself plant example house.
+INC-10499,2024-07-08,2024-07-18,2024-07-09,Policy Violation,Low,Closed,Operations,West,Cassandra Rodriguez,False,False,30818.81,Much computer ok system already music image hair suddenly floor.

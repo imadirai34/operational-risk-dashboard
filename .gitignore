@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Data files (keep sample, ignore large/sensitive)
+data/processed/*.csv
+data/processed/*.xlsx
+*.db
+
+# Reports output
+reports/*.pdf
+reports/*.xlsx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env vars
+.env
+*.env

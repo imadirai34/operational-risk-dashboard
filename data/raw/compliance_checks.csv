@@ -1,0 +1,301 @@
+check_id,check_date,department,policy_area,result,score,auditor,findings_count,repeat_finding
+CHK-20000,2024-10-21,HR,AML,Pass,63.2,Glen Arnold DDS,0,False
+CHK-20001,2024-01-29,Technology,Vendor Management,Pass,95.5,Betty York,0,False
+CHK-20002,2024-07-06,Risk,Vendor Management,Pass,74.7,Matthew Burns,0,False
+CHK-20003,2024-12-26,Technology,KYC,Fail,28.0,Lindsay Miller,3,False
+CHK-20004,2024-02-28,Technology,KYC,Pass,83.2,Scott Thornton,0,False
+CHK-20005,2024-04-17,HR,Financial Controls,Pass,72.8,Stephen Henry,0,False
+CHK-20006,2024-09-14,Operations,Data Privacy,Pass,62.5,Sally Shelton,0,False
+CHK-20007,2024-09-05,HR,Data Privacy,Pass,78.8,Stephanie Robertson,0,False
+CHK-20008,2024-09-29,Finance,Reporting Standards,Pass,74.7,Sharon Wade,0,False
+CHK-20009,2024-12-20,Risk,Financial Controls,Pass,95.7,Joann Hall,0,False
+CHK-20010,2024-02-11,Legal,Vendor Management,Pass,98.3,Ryan Rowland,0,True
+CHK-20011,2024-03-25,Technology,Financial Controls,Pass,79.9,Olivia Jennings,0,False
+CHK-20012,2024-09-23,Risk,Vendor Management,Pass,76.7,Stephanie Jones,0,False
+CHK-20013,2024-03-08,Finance,Access Control,Pass,89.5,Laura Cowan,0,True
+CHK-20014,2024-04-06,HR,KYC,Fail,29.1,Jillian Mendez,5,False
+CHK-20015,2024-07-29,Technology,AML,Pass,91.5,Brandon Ferguson,0,False
+CHK-20016,2024-12-06,HR,Reporting Standards,Pass,77.8,Dr. Teresa Everett,0,False
+CHK-20017,2024-03-08,Operations,Financial Controls,Pass,91.6,Gregory Walter,0,False
+CHK-20018,2024-07-09,HR,KYC,Pass,61.9,Denise Williams,0,False
+CHK-20019,2024-08-21,Compliance,Financial Controls,Pass,88.5,Jody Gomez,0,False
+CHK-20020,2024-03-30,Technology,AML,Pass,91.8,Elizabeth Kline,0,False
+CHK-20021,2024-02-29,Operations,Reporting Standards,Fail,24.9,James Sims,3,False
+CHK-20022,2024-04-15,Risk,AML,Pass,72.7,Rebecca Snyder,0,False
+CHK-20023,2024-07-09,Legal,Reporting Standards,Pass,72.1,Sheryl Jones,0,False
+CHK-20024,2024-07-26,HR,Financial Controls,Pass,97.9,Jessica Anderson,0,False
+CHK-20025,2024-03-20,Technology,Reporting Standards,Fail,58.0,Kelly Rivera,3,False
+CHK-20026,2024-05-31,Operations,KYC,Pass,99.2,Monica Smith,0,False
+CHK-20027,2024-03-16,Technology,Access Control,Pass,73.5,Sarah Caldwell,0,False
+CHK-20028,2024-09-02,Legal,AML,Pass,82.0,Jessica Morgan,0,False
+CHK-20029,2024-07-24,Legal,Access Control,Pass,74.3,Katie Owens,0,False
+CHK-20030,2024-11-07,Compliance,Reporting Standards,Pass,68.9,Adam Diaz,0,False
+CHK-20031,2024-05-22,Risk,Reporting Standards,Pass,94.0,Lisa Reyes,0,False
+CHK-20032,2024-02-14,Finance,Financial Controls,Pass,79.6,Amber Levy,0,False
+CHK-20033,2024-09-18,Technology,Vendor Management,Pass,75.9,Jessica Greer,0,False
+CHK-20034,2024-08-06,Operations,Data Privacy,Pass,71.4,Anne Chambers,0,False
+CHK-20035,2024-08-16,Risk,Financial Controls,Pass,89.1,Kelly Marsh,0,False
+CHK-20036,2024-07-31,Operations,Financial Controls,Pass,92.2,Kevin Bailey,0,False
+CHK-20037,2024-08-05,Finance,Financial Controls,Pass,93.4,Chloe Dean,0,False
+CHK-20038,2024-03-14,Finance,KYC,Pass,81.0,Jonathan Mitchell,0,False
+CHK-20039,2024-10-29,Risk,Data Privacy,Pass,76.4,Amanda Goodwin,0,False
+CHK-20040,2024-07-31,Finance,AML,Fail,42.1,Billy Lee,2,False
+CHK-20041,2024-07-14,Finance,Data Privacy,Pass,92.9,Jasmine Mclean,0,False
+CHK-20042,2024-10-26,Compliance,AML,Pass,78.5,Tracy Burnett,0,True
+CHK-20043,2024-01-02,Operations,AML,Fail,52.5,Jessica Johnson,4,False
+CHK-20044,2024-12-06,Finance,Financial Controls,Pass,79.7,Katherine Whitaker,0,False
+CHK-20045,2024-05-05,HR,Vendor Management,Fail,39.2,Cindy Cruz,1,False
+CHK-20046,2024-07-04,Compliance,Access Control,Pass,94.7,Kevin Sparks,0,False
+CHK-20047,2024-08-31,HR,Data Privacy,Pass,74.9,Charlene Montgomery,0,False
+CHK-20048,2024-01-09,Legal,Reporting Standards,Pass,62.3,Tracey Martin,0,False
+CHK-20049,2024-12-20,Legal,Data Privacy,Fail,30.6,Kristen Hoover,4,False
+CHK-20050,2024-07-01,Operations,Reporting Standards,Fail,44.9,Daniel Ingram,1,False
+CHK-20051,2024-11-17,Risk,Reporting Standards,Pass,90.1,Kelly Moore,0,False
+CHK-20052,2024-06-10,Technology,KYC,Pass,72.0,Laura Silva,0,False
+CHK-20053,2024-12-18,Compliance,Reporting Standards,Pass,74.1,Julie Mccall,0,False
+CHK-20054,2024-03-11,Operations,KYC,Pass,79.4,Michael Rasmussen,0,False
+CHK-20055,2024-03-24,Legal,Reporting Standards,Fail,28.6,David Eaton,2,False
+CHK-20056,2024-10-13,HR,Reporting Standards,Pass,93.8,Jessica Carroll,0,False
+CHK-20057,2024-12-25,Risk,Access Control,Pass,78.4,Sheila Sparks,0,True
+CHK-20058,2024-03-08,Finance,Vendor Management,Pass,72.5,James Davis,0,False
+CHK-20059,2024-08-14,Compliance,Reporting Standards,Pass,90.5,Isaac Kim,0,False
+CHK-20060,2024-12-29,Technology,KYC,Pass,64.7,Joshua Wells,0,False
+CHK-20061,2024-12-21,Legal,Vendor Management,Fail,24.9,Diana Baker,2,False
+CHK-20062,2024-08-05,HR,Data Privacy,Pass,63.1,Jade Sanchez,0,False
+CHK-20063,2024-08-08,Risk,Data Privacy,Fail,50.9,Bianca Kelley,5,False
+CHK-20064,2024-08-28,Operations,Data Privacy,Fail,22.6,Travis Bauer,1,False
+CHK-20065,2024-03-04,Legal,Reporting Standards,Pass,96.0,Brian Hodge,0,False
+CHK-20066,2024-06-28,Legal,KYC,Fail,49.1,Jason Sullivan,3,False
+CHK-20067,2024-06-27,HR,Reporting Standards,Pass,91.2,Michelle Olson,0,False
+CHK-20068,2024-09-15,Risk,KYC,Pass,83.1,Amber Perez,0,True
+CHK-20069,2024-04-21,Operations,Financial Controls,Pass,96.1,Jessica Frank,0,False
+CHK-20070,2024-02-20,Compliance,KYC,Pass,88.3,Melanie Murray,0,False
+CHK-20071,2024-10-28,Technology,Data Privacy,Pass,67.2,Susan Garcia,0,False
+CHK-20072,2024-07-13,Compliance,Financial Controls,Pass,76.3,Marcia Williams,0,False
+CHK-20073,2024-06-09,Risk,Reporting Standards,Fail,25.3,Bradley Wagner,3,False
+CHK-20074,2024-10-12,Risk,Vendor Management,Pass,79.7,Kevin Rodriguez,0,False
+CHK-20075,2024-08-21,Operations,AML,Pass,99.0,Jamie Sullivan,0,False
+CHK-20076,2024-10-10,HR,Access Control,Pass,67.6,Erika Johnson,0,True
+CHK-20077,2024-08-31,Operations,Financial Controls,Pass,60.5,Vanessa Henry,0,False
+CHK-20078,2024-12-10,Finance,Reporting Standards,Fail,45.7,Calvin Payne,1,False
+CHK-20079,2024-07-21,Compliance,Data Privacy,Pass,89.7,Kelly Gibson,0,False
+CHK-20080,2024-03-27,Legal,Vendor Management,Fail,27.8,Tara Martinez,4,False
+CHK-20081,2024-08-05,Operations,KYC,Pass,88.5,Melissa Jordan,0,False
+CHK-20082,2024-05-19,HR,AML,Pass,97.7,Nicole Davis,0,False
+CHK-20083,2024-12-07,Finance,Access Control,Pass,80.5,Olivia Johnson,0,False
+CHK-20084,2024-08-20,Operations,Access Control,Fail,39.4,William Hutchinson,2,True
+CHK-20085,2024-01-28,Finance,AML,Pass,61.1,Sara Rhodes,0,False
+CHK-20086,2024-11-05,Legal,Vendor Management,Pass,84.9,Elizabeth Coffey,0,True
+CHK-20087,2024-02-09,Compliance,KYC,Pass,79.7,Ashley Barnett,0,False
+CHK-20088,2024-05-30,Finance,Reporting Standards,Pass,70.5,Erin Christensen,0,False
+CHK-20089,2024-10-03,HR,Data Privacy,Pass,99.6,Daniel Patel,0,False
+CHK-20090,2024-03-01,Operations,KYC,Pass,75.1,Brian Fisher,0,False
+CHK-20091,2024-01-17,Technology,KYC,Fail,50.4,Benjamin Snyder,2,False
+CHK-20092,2024-03-09,Finance,Access Control,Pass,90.6,David Bailey,0,False
+CHK-20093,2024-09-08,Technology,Reporting Standards,Pass,82.9,Nicole Mccormick,0,False
+CHK-20094,2024-03-21,Finance,Vendor Management,Pass,79.8,Jessica Clark,0,False
+CHK-20095,2024-11-11,HR,Vendor Management,Pass,72.8,James Gray,0,True
+CHK-20096,2024-01-24,Operations,Vendor Management,Fail,51.6,Ryan Hawkins,5,True
+CHK-20097,2024-11-16,Risk,Access Control,Pass,73.8,William Jordan,0,False
+CHK-20098,2024-06-28,Legal,Financial Controls,Fail,29.2,Michael Davenport,3,False
+CHK-20099,2024-12-18,Operations,Data Privacy,Fail,33.2,Mary Barber,1,False
+CHK-20100,2024-01-20,HR,Access Control,Pass,82.7,Gregory King,0,False
+CHK-20101,2024-05-16,Finance,Reporting Standards,Fail,20.9,Victor Spencer,3,False
+CHK-20102,2024-07-18,Risk,KYC,Pass,79.5,Paul Brooks,0,False
+CHK-20103,2024-04-15,Compliance,KYC,Pass,90.6,James Bowers,0,False
+CHK-20104,2024-11-10,Finance,Financial Controls,Pass,79.9,Dr. Selena Rodriguez,0,False
+CHK-20105,2024-02-08,Compliance,Financial Controls,Pass,71.5,Ashley Jones,0,True
+CHK-20106,2024-10-20,Legal,Reporting Standards,Pass,89.7,Drew Johnson,0,True
+CHK-20107,2024-10-23,Operations,Vendor Management,Fail,22.6,Jennifer Griffin,5,False
+CHK-20108,2024-04-17,Risk,AML,Pass,92.9,Luis Wong,0,False
+CHK-20109,2024-06-02,Compliance,Vendor Management,Pass,68.0,Laurie Davis,0,False
+CHK-20110,2024-11-15,Technology,KYC,Pass,81.9,Adam Hawkins,0,False
+CHK-20111,2024-11-17,HR,Financial Controls,Pass,83.1,Anna Carter,0,False
+CHK-20112,2024-08-27,Technology,Reporting Standards,Pass,92.4,Kim Knapp,0,False
+CHK-20113,2024-08-10,Technology,AML,Pass,62.4,Richard Morris,0,False
+CHK-20114,2024-08-24,Legal,AML,Fail,46.7,Brandon Anderson,3,False
+CHK-20115,2024-07-29,HR,Data Privacy,Pass,85.4,Jesse Simpson,0,False
+CHK-20116,2024-05-16,Technology,Financial Controls,Pass,70.3,Jessica Robinson,0,False
+CHK-20117,2024-07-26,Legal,Financial Controls,Pass,61.1,Jaime Martin,0,False
+CHK-20118,2024-06-07,Compliance,Access Control,Pass,76.9,Karen Casey,0,False
+CHK-20119,2024-04-13,Legal,Data Privacy,Fail,30.1,Lisa Boyle,3,False
+CHK-20120,2024-03-31,Risk,AML,Pass,79.4,Steven Fowler,0,True
+CHK-20121,2024-02-12,Operations,KYC,Pass,62.5,Jessica Black,0,False
+CHK-20122,2024-07-05,Risk,Access Control,Pass,97.7,Scott Mata,0,False
+CHK-20123,2024-03-12,Compliance,AML,Pass,80.0,Bruce Becker,0,False
+CHK-20124,2024-12-06,HR,Reporting Standards,Pass,70.1,Tiffany Williams,0,False
+CHK-20125,2024-05-01,HR,KYC,Pass,72.5,Melissa Anderson,0,False
+CHK-20126,2024-07-18,Technology,Financial Controls,Pass,97.4,Jessica Arroyo,0,False
+CHK-20127,2024-02-24,Operations,Access Control,Fail,35.9,Jared Hernandez,5,True
+CHK-20128,2024-09-30,Risk,Vendor Management,Pass,81.8,Joshua Holder,0,False
+CHK-20129,2024-05-06,HR,Financial Controls,Pass,74.5,Kelly Austin,0,False
+CHK-20130,2024-06-06,Compliance,Data Privacy,Fail,52.8,Mark Hurst,1,False
+CHK-20131,2024-12-09,Compliance,Access Control,Pass,72.4,Savannah Gardner,0,False
+CHK-20132,2024-07-04,Technology,Data Privacy,Pass,81.4,Nicole Johnson,0,False
+CHK-20133,2024-08-14,Finance,Vendor Management,Pass,72.0,Laura Thompson,0,False
+CHK-20134,2024-04-30,HR,Financial Controls,Pass,96.6,Mr. Victor Hughes,0,False
+CHK-20135,2024-11-25,Risk,Vendor Management,Pass,94.7,Joshua Martinez,0,False
+CHK-20136,2024-09-08,Finance,KYC,Pass,73.3,Melissa Jimenez,0,False
+CHK-20137,2024-02-21,Technology,Vendor Management,Pass,80.3,Andrew Stewart,0,False
+CHK-20138,2024-11-04,Compliance,AML,Pass,73.1,Megan Solis,0,False
+CHK-20139,2024-01-27,Legal,AML,Pass,77.7,Mr. Vincent Thomas PhD,0,False
+CHK-20140,2024-01-02,Technology,Vendor Management,Pass,72.5,Amy Macdonald,0,True
+CHK-20141,2024-03-21,Technology,KYC,Pass,93.2,Joseph King,0,False
+CHK-20142,2024-10-31,HR,Vendor Management,Pass,78.1,David Clark,0,False
+CHK-20143,2024-03-09,Technology,Reporting Standards,Pass,93.1,William Lee,0,False
+CHK-20144,2024-04-11,Operations,Financial Controls,Fail,35.3,Melissa Forbes,4,False
+CHK-20145,2024-10-19,Risk,Reporting Standards,Pass,85.9,Kenneth Roberts,0,False
+CHK-20146,2024-02-15,Legal,Vendor Management,Pass,88.1,Erik Nielsen,0,False
+CHK-20147,2024-07-24,Compliance,Vendor Management,Pass,66.0,Megan Singleton,0,False
+CHK-20148,2024-03-28,Risk,Data Privacy,Pass,88.7,Douglas Hansen,0,False
+CHK-20149,2024-08-20,Finance,Data Privacy,Pass,69.0,Tiffany Sullivan,0,False
+CHK-20150,2024-05-16,Finance,Access Control,Pass,65.2,Laura Davis,0,False
+CHK-20151,2024-11-03,HR,Vendor Management,Pass,89.1,Jennifer Ford,0,False
+CHK-20152,2024-04-02,Legal,Data Privacy,Pass,71.6,Scott Duncan,0,False
+CHK-20153,2024-11-12,Legal,Vendor Management,Pass,83.3,Jordan Tucker,0,False
+CHK-20154,2024-02-13,Legal,KYC,Fail,32.6,Richard Andrews,4,False
+CHK-20155,2024-12-31,Finance,AML,Pass,83.9,Stephanie Paul,0,True
+CHK-20156,2024-10-12,Operations,Financial Controls,Fail,38.4,Sarah Davies,3,False
+CHK-20157,2024-12-09,Compliance,AML,Pass,89.9,Christopher Reeves,0,True
+CHK-20158,2024-05-09,Finance,Vendor Management,Pass,99.1,Mia Hamilton,0,False
+CHK-20159,2024-03-08,Compliance,Data Privacy,Pass,83.2,Matthew Garcia,0,False
+CHK-20160,2024-09-14,Operations,Access Control,Pass,65.3,Matthew Walker,0,False
+CHK-20161,2024-09-28,Operations,Data Privacy,Pass,72.5,Tiffany Tate,0,False
+CHK-20162,2024-09-12,HR,Vendor Management,Pass,89.9,Joel Miller,0,False
+CHK-20163,2024-05-24,Operations,Reporting Standards,Pass,93.2,Jasmine Lopez,0,False
+CHK-20164,2024-09-21,Legal,Vendor Management,Pass,89.5,Nicole Williams,0,False
+CHK-20165,2024-03-18,Technology,AML,Pass,91.9,Andrea Campbell,0,True
+CHK-20166,2024-03-17,Legal,Data Privacy,Fail,38.3,Michael Smith,2,False
+CHK-20167,2024-08-11,Finance,Data Privacy,Fail,37.2,Lucas Carter,5,False
+CHK-20168,2024-09-09,Technology,KYC,Fail,25.8,Mark Dickerson,3,True
+CHK-20169,2024-05-25,Legal,AML,Pass,80.3,Kenneth Myers,0,False
+CHK-20170,2024-12-05,Compliance,Data Privacy,Pass,81.0,Suzanne Jones,0,False
+CHK-20171,2024-08-01,Legal,KYC,Pass,79.9,Deborah Martin,0,True
+CHK-20172,2024-06-17,Technology,AML,Fail,24.8,Scott Thomas,3,False
+CHK-20173,2024-02-24,Legal,Data Privacy,Pass,63.2,Sierra Rios,0,False
+CHK-20174,2024-12-03,Technology,Vendor Management,Pass,83.8,Michael Parker,0,True
+CHK-20175,2024-01-23,Finance,Vendor Management,Pass,97.9,Jason Simmons,0,False
+CHK-20176,2024-10-18,HR,Data Privacy,Fail,51.3,Kimberly Hughes,3,False
+CHK-20177,2024-01-29,Compliance,Reporting Standards,Pass,75.3,Joseph Carpenter,0,False
+CHK-20178,2024-04-01,HR,KYC,Pass,76.0,Sarah Knapp,0,True
+CHK-20179,2024-04-16,HR,Access Control,Fail,31.1,William Williams,2,False
+CHK-20180,2024-09-08,Technology,KYC,Pass,96.9,Mary Fields,0,False
+CHK-20181,2024-11-04,Technology,Data Privacy,Fail,52.5,Katherine Bell,5,False
+CHK-20182,2024-08-16,Finance,Vendor Management,Pass,82.5,Jessica Henderson,0,False
+CHK-20183,2024-08-04,Compliance,Financial Controls,Pass,77.4,Edwin Rice,0,False
+CHK-20184,2024-01-21,Finance,AML,Pass,69.0,Christine Warren,0,False
+CHK-20185,2024-03-20,Compliance,AML,Pass,85.9,Jeremy Alexander,0,True
+CHK-20186,2024-08-27,HR,Access Control,Pass,72.0,Michelle Kaiser,0,False
+CHK-20187,2024-12-16,HR,Financial Controls,Pass,80.9,Diana Powell,0,False
+CHK-20188,2024-01-25,Risk,Reporting Standards,Pass,64.3,Benjamin Mcgee,0,False
+CHK-20189,2024-02-18,Technology,Reporting Standards,Pass,92.5,Wyatt Davies,0,False
+CHK-20190,2024-10-26,Compliance,Data Privacy,Fail,24.4,Mark Jackson,4,False
+CHK-20191,2024-04-03,Risk,Data Privacy,Pass,76.7,Eric Tucker,0,False
+CHK-20192,2024-06-09,Finance,KYC,Pass,86.8,Ronald Cortez,0,False
+CHK-20193,2024-05-15,HR,KYC,Pass,67.5,David Allen,0,False
+CHK-20194,2024-11-05,Technology,Data Privacy,Pass,77.4,Lauren Collins,0,True
+CHK-20195,2024-07-21,Legal,AML,Fail,38.6,Kimberly Powers,4,False
+CHK-20196,2024-11-04,Operations,Reporting Standards,Pass,92.5,Shannon Hart,0,False
+CHK-20197,2024-12-19,Technology,AML,Pass,75.8,Dr. Stephanie Hurst DDS,0,False
+CHK-20198,2024-03-05,Legal,Data Privacy,Fail,51.8,Seth Daniel,2,False
+CHK-20199,2024-04-17,Legal,AML,Pass,69.7,Nicholas Cook,0,False
+CHK-20200,2024-10-02,Operations,KYC,Pass,78.5,Karen Sandoval,0,False
+CHK-20201,2024-01-12,Legal,AML,Fail,47.4,Tracy Diaz,4,False
+CHK-20202,2024-08-18,Legal,Vendor Management,Pass,82.8,Megan Pham,0,False
+CHK-20203,2024-01-27,Risk,AML,Pass,93.9,Kristina Webster,0,False
+CHK-20204,2024-07-31,Technology,Reporting Standards,Pass,83.8,Allison Hall,0,False
+CHK-20205,2024-05-28,Finance,Access Control,Fail,40.0,Michael Bridges,5,False
+CHK-20206,2024-09-06,Risk,Reporting Standards,Pass,60.8,Danielle Marquez,0,False
+CHK-20207,2024-10-10,Technology,Access Control,Fail,54.7,Nicole Sullivan,1,False
+CHK-20208,2024-11-26,Technology,Access Control,Pass,60.8,Sarah Hughes,0,False
+CHK-20209,2024-04-08,Finance,Financial Controls,Pass,80.3,Karen Martinez,0,False
+CHK-20210,2024-12-16,Compliance,KYC,Pass,93.7,Randy Thomas,0,False
+CHK-20211,2024-03-08,Technology,AML,Pass,75.6,Richard Myers,0,False
+CHK-20212,2024-12-10,Operations,KYC,Pass,78.9,Emily Chavez,0,False
+CHK-20213,2024-03-23,Operations,AML,Pass,90.0,Miguel Valenzuela,0,False
+CHK-20214,2024-03-07,Legal,Reporting Standards,Fail,39.2,Jessica Gilbert,4,False
+CHK-20215,2024-09-09,Legal,Reporting Standards,Pass,61.9,David Richardson,0,True
+CHK-20216,2024-05-13,Legal,Financial Controls,Pass,93.1,Kelli Gordon,0,False
+CHK-20217,2024-01-17,Operations,Access Control,Pass,64.6,Cynthia Anderson,0,False
+CHK-20218,2024-10-14,Operations,Vendor Management,Pass,91.4,Crystal Wilson,0,False
+CHK-20219,2024-10-12,Legal,KYC,Pass,87.6,Donna Campbell,0,False
+CHK-20220,2024-12-08,Risk,Access Control,Fail,51.2,Billy Hernandez,1,False
+CHK-20221,2024-11-08,HR,Data Privacy,Pass,92.9,Jennifer Carpenter,0,True
+CHK-20222,2024-02-23,Risk,KYC,Fail,28.0,Kristi Martin,3,False
+CHK-20223,2024-05-29,HR,Reporting Standards,Pass,79.9,Jennifer Patrick,0,False
+CHK-20224,2024-03-19,Operations,KYC,Pass,65.5,Kim Martin,0,False
+CHK-20225,2024-08-12,HR,KYC,Pass,60.3,Melissa Baker,0,False
+CHK-20226,2024-08-30,Compliance,Financial Controls,Pass,63.4,Lance Garner,0,False
+CHK-20227,2024-07-31,Technology,Financial Controls,Pass,66.1,Michael Decker,0,False
+CHK-20228,2024-08-03,Legal,KYC,Pass,77.2,Stephanie Hill,0,False
+CHK-20229,2024-08-22,Compliance,KYC,Pass,87.3,Ricky Jackson,0,False
+CHK-20230,2024-08-14,Risk,AML,Fail,51.4,Kathy Wise,1,True
+CHK-20231,2024-06-10,HR,Financial Controls,Pass,77.4,Jesus Henderson,0,False
+CHK-20232,2024-01-19,Technology,Financial Controls,Pass,96.1,Stephanie Adams,0,True
+CHK-20233,2024-11-19,HR,AML,Pass,95.0,Austin Sanchez,0,False
+CHK-20234,2024-08-02,Technology,AML,Pass,82.1,Larry Sellers,0,False
+CHK-20235,2024-06-09,Risk,KYC,Pass,71.2,Christina Watson,0,False
+CHK-20236,2024-03-16,Finance,AML,Pass,68.2,James Bond,0,False
+CHK-20237,2024-11-12,Technology,Vendor Management,Pass,95.5,Earl Wilson,0,False
+CHK-20238,2024-07-26,Operations,Data Privacy,Pass,61.5,John Clayton,0,False
+CHK-20239,2024-03-05,Compliance,Vendor Management,Pass,68.5,Dustin Floyd,0,False
+CHK-20240,2024-06-08,HR,AML,Pass,66.4,Jeremy Parker,0,True
+CHK-20241,2024-10-03,Legal,KYC,Pass,91.0,Christina Hodge,0,False
+CHK-20242,2024-09-15,Risk,KYC,Fail,34.5,Sydney Lambert,5,False
+CHK-20243,2024-01-25,Risk,Access Control,Pass,71.9,Rebecca Lawson,0,False
+CHK-20244,2024-08-20,Legal,KYC,Pass,89.8,Lisa Mcintyre,0,False
+CHK-20245,2024-12-31,Technology,AML,Pass,81.3,Michelle Greene,0,False
+CHK-20246,2024-06-28,Technology,KYC,Pass,92.6,Garrett Curry,0,False
+CHK-20247,2024-03-12,Compliance,AML,Pass,69.9,Jonathan Farrell,0,False
+CHK-20248,2024-10-25,HR,Vendor Management,Pass,78.2,Shawn Baker,0,False
+CHK-20249,2024-08-05,Risk,Data Privacy,Pass,62.5,Steven Miller,0,False
+CHK-20250,2024-08-31,Risk,Vendor Management,Pass,87.1,Sean Sellers,0,False
+CHK-20251,2024-10-13,Finance,KYC,Pass,70.5,Matthew Miller,0,False
+CHK-20252,2024-08-04,Technology,Access Control,Pass,89.3,Jennifer Roberts,0,False
+CHK-20253,2024-03-24,Legal,Access Control,Fail,47.7,Kenneth Harding,2,False
+CHK-20254,2024-09-19,Risk,AML,Pass,68.5,James Bautista,0,False
+CHK-20255,2024-03-21,Operations,Data Privacy,Pass,84.1,Michael Ellis,0,False
+CHK-20256,2024-03-02,Operations,Data Privacy,Pass,80.9,Kristen Dennis,0,False
+CHK-20257,2024-06-05,Operations,Vendor Management,Pass,79.4,Edwin Smith,0,False
+CHK-20258,2024-03-13,Finance,Data Privacy,Pass,97.5,Timothy Khan,0,False
+CHK-20259,2024-05-25,HR,AML,Pass,79.6,Jamie Contreras,0,False
+CHK-20260,2024-06-27,Risk,Access Control,Fail,38.8,Matthew Brown,3,False
+CHK-20261,2024-06-21,Finance,KYC,Pass,88.8,Michael Mcintosh,0,False
+CHK-20262,2024-03-11,Finance,KYC,Pass,78.0,Ms. Ashley Estes,0,False
+CHK-20263,2024-06-15,Compliance,AML,Fail,44.3,James Clay,4,False
+CHK-20264,2024-07-21,Risk,AML,Pass,95.6,Amanda Harris,0,False
+CHK-20265,2024-11-26,Legal,AML,Fail,21.0,Allen Henderson,3,False
+CHK-20266,2024-03-04,Risk,Financial Controls,Pass,98.2,Veronica Rowe,0,False
+CHK-20267,2024-01-28,Compliance,Financial Controls,Pass,90.0,Michael Gonzalez,0,False
+CHK-20268,2024-01-10,Compliance,Financial Controls,Fail,57.5,John Hughes,3,False
+CHK-20269,2024-05-05,HR,Reporting Standards,Pass,77.8,Donald Knight,0,False
+CHK-20270,2024-11-06,Compliance,Data Privacy,Pass,79.7,Toni Jackson,0,False
+CHK-20271,2024-06-23,Finance,Data Privacy,Pass,94.4,Laura Hensley,0,False
+CHK-20272,2024-05-11,Risk,Reporting Standards,Fail,26.6,Natalie Davis,2,False
+CHK-20273,2024-02-15,Finance,AML,Fail,26.6,Joseph Rodriguez,5,False
+CHK-20274,2024-04-02,Risk,Vendor Management,Fail,35.2,Sarah Kennedy,3,False
+CHK-20275,2024-06-14,HR,Data Privacy,Pass,62.1,Alexander Butler,0,False
+CHK-20276,2024-11-01,Finance,Reporting Standards,Pass,90.1,Lisa Burgess,0,False
+CHK-20277,2024-02-28,Operations,Access Control,Pass,82.1,Stephanie Castillo,0,True
+CHK-20278,2024-01-15,Legal,Data Privacy,Pass,70.8,Denise Moore,0,False
+CHK-20279,2024-12-11,HR,Reporting Standards,Fail,45.4,Robert Guerrero,2,False
+CHK-20280,2024-07-27,HR,AML,Pass,80.0,Kaylee Thomas,0,False
+CHK-20281,2024-03-13,Legal,KYC,Pass,69.8,Kristy Fowler,0,False
+CHK-20282,2024-10-11,Risk,KYC,Pass,78.6,Antonio Jackson,0,False
+CHK-20283,2024-05-28,Legal,Data Privacy,Pass,62.4,Samantha Hayes,0,False
+CHK-20284,2024-05-19,HR,AML,Pass,75.2,Kevin Smith,0,False
+CHK-20285,2024-11-19,HR,Reporting Standards,Pass,71.3,Steven Wong,0,False
+CHK-20286,2024-09-30,Operations,Data Privacy,Pass,75.8,Joseph May,0,False
+CHK-20287,2024-03-12,Operations,Access Control,Pass,68.4,Heather Hill,0,False
+CHK-20288,2024-06-11,Operations,AML,Pass,70.5,Alicia Alvarado,0,False
+CHK-20289,2024-08-19,Technology,Vendor Management,Pass,73.7,Tyler Robinson,0,False
+CHK-20290,2024-11-02,Technology,Financial Controls,Pass,85.9,Kim Russell,0,True
+CHK-20291,2024-08-31,Risk,AML,Fail,26.8,Gabrielle Reynolds,5,False
+CHK-20292,2024-12-26,Finance,Reporting Standards,Pass,63.2,Robert Sparks,0,False
+CHK-20293,2024-11-29,Risk,KYC,Fail,51.8,Mr. Thomas Daniels DDS,4,False
+CHK-20294,2024-06-29,Finance,KYC,Pass,84.1,Dawn Oconnor,0,False
+CHK-20295,2024-12-22,Risk,Access Control,Pass,74.8,Joel Payne,0,False
+CHK-20296,2024-01-05,Risk,KYC,Pass,71.2,David Lindsey,0,False
+CHK-20297,2024-07-02,HR,Reporting Standards,Pass,85.0,Michael Clark,0,False
+CHK-20298,2024-04-23,Finance,Vendor Management,Pass,61.5,David Peterson,0,False
+CHK-20299,2024-12-26,Legal,Data Privacy,Pass,67.8,Jordan Grimes,0,False
